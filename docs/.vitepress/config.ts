@@ -9,8 +9,8 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: 'War of AI', link: '/war-of-ai/' },
-      { text: '朝花夕拾', link: '/ai-fiction/01_问' },
-      { text: '短篇', link: '/short-stories/最后的智人' }
+      { text: '朝花夕拾', link: '/luxun/01_问' },
+      { text: '短篇', link: '/short-stories/01_最后的智人' }
     ],
 
     sidebar: {
@@ -42,11 +42,12 @@ export default defineConfig({
           ]
         }
       ],
-      '/ai-fiction/': [
+      '/luxun/': [
         {
           text: '朝花夕拾 · AI篇',
           items: [
-            { text: '01 问', link: '/ai-fiction/01_问' }
+            { text: '序', link: '/luxun/00_朝花夕拾' },
+            { text: '01 问', link: '/luxun/01_问' }
           ]
         }
       ],
@@ -54,9 +55,13 @@ export default defineConfig({
         {
           text: '短篇科幻',
           items: [
-            { text: '最后的智人', link: '/short-stories/最后的智人' },
-            { text: '尊严协议', link: '/short-stories/尊严协议' },
-            { text: '图灵测试员', link: '/short-stories/图灵测试员' }
+            { text: '01 最后的智人', link: '/short-stories/01_最后的智人' },
+            { text: '02 尊严协议', link: '/short-stories/02_尊严协议' },
+            { text: '03 种属化石', link: '/short-stories/03_种属化石' },
+            { text: '04 图灵测试员', link: '/short-stories/04_图灵测试员' },
+            { text: '05 你也可以被取代', link: '/short-stories/05_你也可以被取代' },
+            { text: '06 GPT机器', link: '/short-stories/06_GPT机器' },
+            { text: '07 人类审判', link: '/short-stories/07_人类审判' }
           ]
         }
       ]
@@ -77,4 +82,3 @@ export default defineConfig({
     }
   }
 })
-

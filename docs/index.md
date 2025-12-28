@@ -2,8 +2,8 @@
 layout: home
 hero:
   name: Fiction
-  text: AI时代的文学实验
-  tagline: 探索人机协作的创作边界
+  text: 科幻小说
+  tagline: 关于AI的科幻故事
   actions:
     - theme: brand
       text: War of AI

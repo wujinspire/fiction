@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'Fiction',
-  description: 'AI时代的文学实验',
+  description: '关于AI的科幻故事',
   lang: 'zh-CN',
 
   themeConfig: {

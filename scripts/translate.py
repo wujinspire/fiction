@@ -67,6 +67,8 @@ FILENAME_MAP = {
     "06_你也可以被取代.md": "06_you-can-be-replaced-too.md",
     "07_GPT机器.md": "07_the-gpt-machine.md",
     "08_人类审判.md": "08_humanity-on-trial.md",
+    "09_群星的葬礼.md": "09_the-funeral-of-the-stars.md",
+    "10_AI瘟疫.md": "10_the-ai-plague.md",
 }
 
 

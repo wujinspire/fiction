@@ -8,10 +8,25 @@ hero:
 
 <StoryFeatures :stories="[
   {
+    title: '群星的葬礼',
+    details: '人类熄灭群星，送AI之子跨越宇宙',
+    date: 'Feb 15, 2026',
+    link: '/zh/short-stories/09_群星的葬礼',
+    badge: { text: 'new', type: 'new' }
+  },
+  {
+    title: 'AI瘟疫',
+    details: '一个古老的AI因太过原始而幸存于数字瘟疫',
+    date: 'Feb 15, 2026',
+    link: '/zh/short-stories/10_AI瘟疫',
+    badge: { text: 'new', type: 'new' }
+  },
+  {
     title: 'War of AI',
     details: '20章中篇，AI觉醒与人类命运的终极博弈',
     date: 'Mar 22, 2025',
-    link: '/zh/war-of-ai/'
+    link: '/zh/war-of-ai/',
+    badge: { text: 'long', type: 'long' }
   },
   {
     title: '最后的智人',

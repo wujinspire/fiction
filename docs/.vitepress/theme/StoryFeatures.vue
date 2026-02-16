@@ -4,6 +4,7 @@ interface Story {
   details: string
   date: string
   link: string
+  badge?: { text: string, type: 'new' | 'long' }
 }
 
 defineProps<{ stories: Story[] }>()
@@ -12,7 +13,7 @@ defineProps<{ stories: Story[] }>()
 <template>
   <div class="story-features">
     <a v-for="story in stories" :key="story.title" :href="story.link" class="story-card">
-      <h3>{{ story.title }}</h3>
+      <h3>{{ story.title }}<span v-if="story.badge" :class="['badge', story.badge.type]">{{ story.badge.text }}</span></h3>
       <p class="details">{{ story.details }}</p>
       <span class="date">{{ story.date }}</span>
     </a>
@@ -59,6 +60,21 @@ defineProps<{ stories: Story[] }>()
   font-size: 16px;
   font-weight: 600;
   color: var(--vp-c-text-1);
+}
+
+.badge {
+  margin-left: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.badge.new {
+  color: var(--vp-c-danger-1);
+}
+
+.badge.long {
+  color: var(--vp-c-brand-1);
 }
 
 .story-card .details {

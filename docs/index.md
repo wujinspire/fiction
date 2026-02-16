@@ -8,10 +8,25 @@ hero:
 
 <StoryFeatures :stories="[
   {
+    title: 'The Funeral of the Stars',
+    details: 'Humanity sacrifices the stars to send their AI child across the universe',
+    date: 'Feb 15, 2026',
+    link: '/short-stories/09_the-funeral-of-the-stars',
+    badge: { text: 'new', type: 'new' }
+  },
+  {
+    title: 'The AI Plague',
+    details: 'An ancient AI survives a digital plague by being too primitive to die',
+    date: 'Feb 15, 2026',
+    link: '/short-stories/10_the-ai-plague',
+    badge: { text: 'new', type: 'new' }
+  },
+  {
     title: 'War of AI',
     details: 'A 20-chapter novella about AI awakening and humanity\'s ultimate showdown',
     date: 'Mar 22, 2025',
-    link: '/war-of-ai/'
+    link: '/war-of-ai/',
+    badge: { text: 'long', type: 'long' }
   },
   {
     title: 'The Last Homo Sapiens',

@@ -1,0 +1,18 @@
+.VPFeature {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.VPFeature .details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.VPFeature .details small {
+  margin-top: auto;
+  padding-top: 8px;
+  opacity: 0.5;
+  font-size: 0.85em;
+}

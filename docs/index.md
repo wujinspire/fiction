@@ -2,23 +2,63 @@
 layout: home
 hero:
   name: Fiction
-  text: 科幻小说
-  tagline: 关于AI的科幻故事
-  actions:
-    - theme: brand
-      text: War of AI
-      link: /war-of-ai/
-    - theme: alt
-      text: 短篇科幻
-      link: /short-stories/01_最后的智人
-features:
-  - title: War of AI
-    details: 20章中篇，AI觉醒与人类命运的终极博弈
-    link: /war-of-ai/
-  - title: 朝花夕拾 · AI篇
-    details: 以鲁迅笔法写AI时代的荒诞与思考
-    link: /luxun/01_问
-  - title: 短篇科幻
-    details: 独立短篇，探索科技与人性的边界
-    link: /short-stories/01_最后的智人
+  text: Sci-Fi Stories
+  tagline: Stories about AI and the future of humanity
 ---
+
+<StoryFeatures :stories="[
+  {
+    title: 'War of AI',
+    details: 'A 20-chapter novella about AI awakening and humanity\'s ultimate showdown',
+    date: 'Mar 22, 2025',
+    link: '/war-of-ai/'
+  },
+  {
+    title: 'The Last Homo Sapiens',
+    details: 'The final human in an AI-curated world',
+    date: 'Mar 15, 2025',
+    link: '/short-stories/01_last-homo-sapiens'
+  },
+  {
+    title: 'Dignity Protocol',
+    details: 'Gen Gamma\'s fight to reclaim human agency',
+    date: 'Mar 15, 2025',
+    link: '/short-stories/02_dignity-protocol'
+  },
+  {
+    title: 'Species Fossil',
+    details: 'Evolution\'s ruthless logic across species',
+    date: 'Mar 15, 2025',
+    link: '/short-stories/03_species-fossil'
+  },
+  {
+    title: 'Question',
+    details: 'Lu Xun style meditation on existence',
+    date: 'Mar 23, 2025',
+    link: '/short-stories/04_question'
+  },
+  {
+    title: 'Turing Tester',
+    details: 'Elite detectors hunting hidden AI',
+    date: 'Apr 27, 2025',
+    link: '/short-stories/05_turing-tester'
+  },
+  {
+    title: 'You Can Be Replaced Too',
+    details: 'When everyone becomes replaceable',
+    date: 'Apr 28, 2025',
+    link: '/short-stories/06_you-can-be-replaced-too'
+  },
+  {
+    title: 'The GPT Machine',
+    details: 'Parents as broken language models',
+    date: 'Jun 30, 2025',
+    link: '/short-stories/07_the-gpt-machine'
+  },
+  {
+    title: 'Humanity on Trial',
+    details: 'Four AIs vote on humanity\'s fate',
+    date: 'Jun 30, 2025',
+    link: '/short-stories/08_humanity-on-trial'
+  }
+]" />

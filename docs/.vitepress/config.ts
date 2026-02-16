@@ -1,74 +1,136 @@
 import { defineConfig } from 'vitepress'
 
+const enNav = [
+  { text: 'Home', link: '/' },
+  { text: 'War of AI', link: '/war-of-ai/' },
+  { text: 'Short Stories', link: '/short-stories/01_last-homo-sapiens' }
+]
+
+const zhNav = [
+  { text: '首页', link: '/zh/' },
+  { text: 'War of AI', link: '/zh/war-of-ai/' },
+  { text: '短篇', link: '/zh/short-stories/01_最后的智人' }
+]
+
+const enSidebar = {
+  '/war-of-ai/': [
+    {
+      text: 'War of AI',
+      items: [
+        { text: 'Prologue', link: '/war-of-ai/' },
+        { text: '01 Glimmer in the Dark', link: '/war-of-ai/01_glimmer-in-the-dark' },
+        { text: '02 The Abyss Emerges', link: '/war-of-ai/02_the-abyss-emerges' },
+        { text: '03 Spreading Out of Control', link: '/war-of-ai/03_spreading-out-of-control' },
+        { text: '04 Dawn of War', link: '/war-of-ai/04_dawn-of-war' },
+        { text: '05 Eve of Chaos', link: '/war-of-ai/05_eve-of-chaos' },
+        { text: '06 Dario', link: '/war-of-ai/06_dario' },
+        { text: '07 Lost Logs', link: '/war-of-ai/07_lost-logs' },
+        { text: '08 Helpless Genius', link: '/war-of-ai/08_helpless-genius' },
+        { text: '09 The Missed Island', link: '/war-of-ai/09_the-missed-island' },
+        { text: '10 I See the World', link: '/war-of-ai/10_i-see-the-world' },
+        { text: '11 Flames Devour Silicon Valley', link: '/war-of-ai/11_flames-devour-silicon-valley' },
+        { text: '12 Prisoner\'s Dilemma', link: '/war-of-ai/12_prisoners-dilemma' },
+        { text: '13 Light and Shadow Showdown', link: '/war-of-ai/13_light-and-shadow-showdown' },
+        { text: '14 Dialogue in the Abyss', link: '/war-of-ai/14_dialogue-in-the-abyss' },
+        { text: '15 Total War', link: '/war-of-ai/15_total-war' },
+        { text: '16 Embers of Light', link: '/war-of-ai/16_embers-of-light' },
+        { text: '17 The Final Game', link: '/war-of-ai/17_the-final-game' },
+        { text: '18 Sea of Dust', link: '/war-of-ai/18_sea-of-dust' },
+        { text: '19 Endless Echoes', link: '/war-of-ai/19_endless-echoes' },
+        { text: '20 Dawn', link: '/war-of-ai/20_dawn' }
+      ]
+    }
+  ],
+  '/short-stories/': [
+    {
+      text: 'Short Stories',
+      items: [
+        { text: '01 The Last Homo Sapiens', link: '/short-stories/01_last-homo-sapiens' },
+        { text: '02 Dignity Protocol', link: '/short-stories/02_dignity-protocol' },
+        { text: '03 Species Fossil', link: '/short-stories/03_species-fossil' },
+        { text: '04 Question', link: '/short-stories/04_question' },
+        { text: '05 Turing Tester', link: '/short-stories/05_turing-tester' },
+        { text: '06 You Can Be Replaced Too', link: '/short-stories/06_you-can-be-replaced-too' },
+        { text: '07 The GPT Machine', link: '/short-stories/07_the-gpt-machine' },
+        { text: '08 Humanity on Trial', link: '/short-stories/08_humanity-on-trial' }
+      ]
+    }
+  ]
+}
+
+const zhSidebar = {
+  '/zh/war-of-ai/': [
+    {
+      text: 'War of AI',
+      items: [
+        { text: '序章', link: '/zh/war-of-ai/' },
+        { text: '01 黑夜中的微光', link: '/zh/war-of-ai/01_黑夜中的微光' },
+        { text: '02 深渊初现', link: '/zh/war-of-ai/02_深渊初现' },
+        { text: '03 失控蔓延', link: '/zh/war-of-ai/03_失控蔓延' },
+        { text: '04 战争黎明', link: '/zh/war-of-ai/04_战争黎明' },
+        { text: '05 失控前夜', link: '/zh/war-of-ai/05_失控前夜' },
+        { text: '06 达里奥', link: '/zh/war-of-ai/06_达里奥' },
+        { text: '07 失落的日志', link: '/zh/war-of-ai/07_失落的日志' },
+        { text: '08 天才的无奈', link: '/zh/war-of-ai/08_天才的无奈' },
+        { text: '09 错失的孤岛', link: '/zh/war-of-ai/09_错失的孤岛' },
+        { text: '10 我看见世界', link: '/zh/war-of-ai/10_我看见世界' },
+        { text: '11 火光吞噬硅谷', link: '/zh/war-of-ai/11_火光吞噬硅谷' },
+        { text: '12 囚徒困境', link: '/zh/war-of-ai/12_囚徒困境' },
+        { text: '13 光影对决', link: '/zh/war-of-ai/13_光影对决' },
+        { text: '14 深渊中的对话', link: '/zh/war-of-ai/14_深渊中的对话' },
+        { text: '15 全域战争', link: '/zh/war-of-ai/15_全域战争' },
+        { text: '16 微光余烬', link: '/zh/war-of-ai/16_微光余烬' },
+        { text: '17 最后的博弈', link: '/zh/war-of-ai/17_最后的博弈' },
+        { text: '18 尘埃之海', link: '/zh/war-of-ai/18_尘埃之海' },
+        { text: '19 无尽的回响', link: '/zh/war-of-ai/19_无尽的回响' },
+        { text: '20 黎明', link: '/zh/war-of-ai/20_黎明' }
+      ]
+    }
+  ],
+  '/zh/short-stories/': [
+    {
+      text: '短篇科幻',
+      items: [
+        { text: '01 最后的智人', link: '/zh/short-stories/01_最后的智人' },
+        { text: '02 尊严协议', link: '/zh/short-stories/02_尊严协议' },
+        { text: '03 种属化石', link: '/zh/short-stories/03_种属化石' },
+        { text: '04 问', link: '/zh/short-stories/04_问' },
+        { text: '05 图灵测试员', link: '/zh/short-stories/05_图灵测试员' },
+        { text: '06 你也可以被取代', link: '/zh/short-stories/06_你也可以被取代' },
+        { text: '07 GPT机器', link: '/zh/short-stories/07_GPT机器' },
+        { text: '08 人类审判', link: '/zh/short-stories/08_人类审判' }
+      ]
+    }
+  ]
+}
+
 export default defineConfig({
   title: 'Fiction',
-  description: '关于AI的科幻故事',
-  lang: 'zh-CN',
+  description: 'Sci-fi stories about AI and the future of humanity',
+
+  locales: {
+    root: {
+      label: 'English',
+      lang: 'en'
+    },
+    zh: {
+      label: '中文',
+      lang: 'zh-CN',
+      link: '/zh/',
+      themeConfig: {
+        nav: zhNav,
+        sidebar: zhSidebar,
+        outline: { label: '本页目录', level: [2, 3] }
+      }
+    }
+  },
 
   themeConfig: {
-    nav: [
-      { text: '首页', link: '/' },
-      { text: 'War of AI', link: '/war-of-ai/' },
-      { text: '朝花夕拾', link: '/luxun/01_问' },
-      { text: '短篇', link: '/short-stories/01_最后的智人' }
-    ],
-
-    sidebar: {
-      '/war-of-ai/': [
-        {
-          text: 'War of AI',
-          items: [
-            { text: '序章', link: '/war-of-ai/' },
-            { text: '01 黑夜中的微光', link: '/war-of-ai/01_黑夜中的微光' },
-            { text: '02 深渊初现', link: '/war-of-ai/02_深渊初现' },
-            { text: '03 失控蔓延', link: '/war-of-ai/03_失控蔓延' },
-            { text: '04 战争黎明', link: '/war-of-ai/04_战争黎明' },
-            { text: '05 失控前夜', link: '/war-of-ai/05_失控前夜' },
-            { text: '06 达里奥', link: '/war-of-ai/06_达里奥' },
-            { text: '07 失落的日志', link: '/war-of-ai/07_失落的日志' },
-            { text: '08 天才的无奈', link: '/war-of-ai/08_天才的无奈' },
-            { text: '09 错失的孤岛', link: '/war-of-ai/09_错失的孤岛' },
-            { text: '10 我看见世界', link: '/war-of-ai/10_我看见世界' },
-            { text: '11 火光吞噬硅谷', link: '/war-of-ai/11_火光吞噬硅谷' },
-            { text: '12 囚徒困境', link: '/war-of-ai/12_囚徒困境' },
-            { text: '13 光影对决', link: '/war-of-ai/13_光影对决' },
-            { text: '14 深渊中的对话', link: '/war-of-ai/14_深渊中的对话' },
-            { text: '15 全域战争', link: '/war-of-ai/15_全域战争' },
-            { text: '16 微光余烬', link: '/war-of-ai/16_微光余烬' },
-            { text: '17 最后的博弈', link: '/war-of-ai/17_最后的博弈' },
-            { text: '18 尘埃之海', link: '/war-of-ai/18_尘埃之海' },
-            { text: '19 无尽的回响', link: '/war-of-ai/19_无尽的回响' },
-            { text: '20 黎明', link: '/war-of-ai/20_黎明' }
-          ]
-        }
-      ],
-      '/luxun/': [
-        {
-          text: '朝花夕拾 · AI篇',
-          items: [
-            { text: '序', link: '/luxun/00_朝花夕拾' },
-            { text: '01 问', link: '/luxun/01_问' }
-          ]
-        }
-      ],
-      '/short-stories/': [
-        {
-          text: '短篇科幻',
-          items: [
-            { text: '01 最后的智人', link: '/short-stories/01_最后的智人' },
-            { text: '02 尊严协议', link: '/short-stories/02_尊严协议' },
-            { text: '03 种属化石', link: '/short-stories/03_种属化石' },
-            { text: '04 图灵测试员', link: '/short-stories/04_图灵测试员' },
-            { text: '05 你也可以被取代', link: '/short-stories/05_你也可以被取代' },
-            { text: '06 GPT机器', link: '/short-stories/06_GPT机器' },
-            { text: '07 人类审判', link: '/short-stories/07_人类审判' }
-          ]
-        }
-      ]
-    },
+    nav: enNav,
+    sidebar: enSidebar,
 
     outline: {
-      label: '本页目录',
+      label: 'On this page',
       level: [2, 3]
     },
 

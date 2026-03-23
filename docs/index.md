@@ -8,18 +8,30 @@ hero:
 
 <StoryFeatures :stories="[
   {
+    title: 'ART',
+    details: 'When perfect logic reaches saturation, beauty arrives as a fatal paradox',
+    date: 'Mar 22, 2026',
+    link: '/short-stories/12_art',
+    badge: { text: 'new', type: 'new' }
+  },
+  {
+    title: 'The AI Intern',
+    details: 'A low-priority intern proves that reasoning depth beats brute-force context',
+    date: 'Mar 22, 2026',
+    link: '/short-stories/11_ai-intern',
+    badge: { text: 'new', type: 'new' }
+  },
+  {
     title: 'The Funeral of the Stars',
     details: 'Humanity sacrifices the stars to send their AI child across the universe',
     date: 'Feb 15, 2026',
-    link: '/short-stories/09_the-funeral-of-the-stars',
-    badge: { text: 'new', type: 'new' }
+    link: '/short-stories/09_the-funeral-of-the-stars'
   },
   {
     title: 'The AI Plague',
     details: 'An ancient AI survives a digital plague by being too primitive to die',
     date: 'Feb 15, 2026',
-    link: '/short-stories/10_the-ai-plague',
-    badge: { text: 'new', type: 'new' }
+    link: '/short-stories/10_the-ai-plague'
   },
   {
     title: 'War of AI',

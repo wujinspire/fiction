@@ -16,3 +16,38 @@
   opacity: 0.5;
   font-size: 0.85em;
 }
+
+@media (min-width: 1280px) {
+  .VPNavBarTranslations {
+    align-items: center;
+  }
+
+  .VPNavBarTranslations .button {
+    gap: 6px;
+    padding: 0 14px;
+    height: 36px;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 999px;
+    background: var(--vp-c-bg-soft);
+    transition:
+      border-color 0.25s,
+      background-color 0.25s,
+      color 0.25s;
+  }
+
+  .VPNavBarTranslations:hover .button {
+    border-color: var(--vp-c-brand-1);
+    background: var(--vp-c-bg-mute);
+  }
+
+  .VPNavBarTranslations .button::before {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    content: 'EN / 中文';
+  }
+
+  .VPNavBarTranslations .option-icon {
+    margin-right: 0;
+  }
+}

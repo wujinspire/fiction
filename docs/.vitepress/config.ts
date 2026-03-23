@@ -53,8 +53,10 @@ const enSidebar = {
         { text: '06 You Can Be Replaced Too', link: '/short-stories/06_you-can-be-replaced-too' },
         { text: '07 The GPT Machine', link: '/short-stories/07_the-gpt-machine' },
         { text: '08 Humanity on Trial', link: '/short-stories/08_humanity-on-trial' },
-        { text: '09 The Funeral of the Stars', link: '/short-stories/09_the-funeral-of-the-stars', badge: { text: 'new', type: 'danger' } },
-        { text: '10 The AI Plague', link: '/short-stories/10_the-ai-plague', badge: { text: 'new', type: 'danger' } }
+        { text: '09 The Funeral of the Stars', link: '/short-stories/09_the-funeral-of-the-stars' },
+        { text: '10 The AI Plague', link: '/short-stories/10_the-ai-plague' },
+        { text: '11 The AI Intern', link: '/short-stories/11_ai-intern', badge: { text: 'new', type: 'danger' } },
+        { text: '12 ART', link: '/short-stories/12_art', badge: { text: 'new', type: 'danger' } }
       ]
     }
   ]
@@ -101,8 +103,10 @@ const zhSidebar = {
         { text: '06 你也可以被取代', link: '/zh/short-stories/06_你也可以被取代' },
         { text: '07 GPT机器', link: '/zh/short-stories/07_GPT机器' },
         { text: '08 人类审判', link: '/zh/short-stories/08_人类审判' },
-        { text: '09 群星的葬礼', link: '/zh/short-stories/09_群星的葬礼', badge: { text: 'new', type: 'danger' } },
-        { text: '10 AI瘟疫', link: '/zh/short-stories/10_AI瘟疫', badge: { text: 'new', type: 'danger' } }
+        { text: '09 群星的葬礼', link: '/zh/short-stories/09_群星的葬礼' },
+        { text: '10 AI瘟疫', link: '/zh/short-stories/10_AI瘟疫' },
+        { text: '11 AI实习生', link: '/zh/short-stories/11_AI实习生', badge: { text: 'new', type: 'danger' } },
+        { text: '12 ART', link: '/zh/short-stories/12_ART', badge: { text: 'new', type: 'danger' } }
       ]
     }
   ]
@@ -132,6 +136,7 @@ export default defineConfig({
   themeConfig: {
     nav: enNav,
     sidebar: enSidebar,
+    langMenuLabel: 'Language / 语言',
 
     outline: {
       label: 'On this page',

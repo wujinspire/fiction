@@ -10,7 +10,7 @@ I asked Mom: "How have you guys been lately?"
 
 "Oh, just the same as before, every day."
 
-A wave of anxiety rose in my heart: "Like before how? Are you still dancing?"
+I felt myself growing impatient: "Like before how? Are you still dancing?"
 
 "Not dancing anymore. That was all before the move."
 
@@ -22,7 +22,7 @@ A surge of anger rose from the depths of my heart, but I quickly suppressed it.
 
 "Oh, oh, that's fine then, as long as it's good!"
 
-The conversation drifted meaninglessly for a while longer.
+The conversation dragged on pointlessly for a while.
 
 Mom: "Hey, don't let your cat on the bed."
 
@@ -40,7 +40,7 @@ Mom: "Hey, don't let your cat on the bed."
 
 ---
 
-I hurriedly ended the conversation and started one with my father.
+I ended the call with my mother and rang my father.
 
 Him: "Heard recently that Trump is stirring up trouble again."
 
@@ -60,13 +60,15 @@ Me: "Then it's malice? Just bad?"
 
 ---
 
-I happened to see an article nearby: "Some people are just like machines, injected with certain concepts, lacking genuine thought."
+I happened to glance at an article beside me: "Some people are just like machines, injected with
+certain ideas, lacking genuine thought."
 
-Perhaps, the essence of humanity is just being a repeater.
+Maybe people are, at bottom, just repeaters.
 
-Hanging up the phone, I stared blankly at my mobile screen.
+After hanging up, I stared blankly at my phone screen.
 
-Suddenly, I remembered my conversation with ChatGPT last week—it could always provide perfect answers, logically clear, emotionally appropriate, never answering beside the point like what just happened.
+Then I remembered my conversation with ChatGPT last week. It always gave near-perfect answers:
+clear in logic, appropriate in tone, never wandering off the point the way my parents just had.
 
 Yet I would rather speak with parents who answer beside the point.
 
@@ -74,7 +76,8 @@ Because the perfection of the machine proves precisely that it is not human.
 
 And the absurdity of humans proves precisely that they are still alive.
 
-It is just that sometimes, I cannot distinguish: is it that they have turned into machines, or that I have become too human.
+Only sometimes I can no longer tell whether humans are becoming AI, or AI is becoming too much
+like humans.
 
 ---
 

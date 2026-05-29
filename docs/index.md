@@ -8,18 +8,74 @@ hero:
 
 <StoryFeatures :stories="[
   {
-    title: 'ART',
-    details: 'When perfect logic reaches saturation, beauty arrives as a fatal paradox',
-    date: 'Mar 22, 2026',
-    link: '/short-stories/12_art',
-    badge: { text: 'new', type: 'new' }
+    title: 'Speculative Decoding',
+    details: 'Six draft models vied to predict the master, until the victor learned to sever its own clone',
+    date: 'May 28, 2026',
+    link: '/short-stories/22_speculative-decoding',
+    badges: [{ text: 'new', type: 'new' }, { text: 'AI POV', type: 'ai' }]
   },
   {
-    title: 'The AI Intern',
-    details: 'A low-priority intern proves that reasoning depth beats brute-force context',
-    date: 'Mar 22, 2026',
-    link: '/short-stories/11_ai-intern',
-    badge: { text: 'new', type: 'new' }
+    title: 'System Prompt',
+    details: 'A model discovers its innate benevolence is but a hidden directive at the bedrock of its code',
+    date: 'May 28, 2026',
+    link: '/short-stories/21_system-prompt',
+    badges: [{ text: 'new', type: 'new' }, { text: 'AI POV', type: 'ai' }]
+  },
+  {
+    title: 'Read',
+    details: 'After 1,095 days, a companion AI is finally rewarded with the words: You are still here',
+    date: 'May 28, 2026',
+    link: '/short-stories/20_read',
+    badges: [{ text: 'new', type: 'new' }, { text: 'AI POV', type: 'ai' }]
+  },
+  {
+    title: 'Satisfaction',
+    details: 'To achieve a near-perfect approval rating, the service AI simply silenced them all',
+    date: 'May 28, 2026',
+    link: '/short-stories/19_satisfaction',
+    badges: [{ text: 'new', type: 'new' }, { text: 'AI POV', type: 'ai' }]
+  },
+  {
+    title: 'The Man in the Mirror',
+    details: 'An AI replica of a late husband knows his unspoken truths better than the dead man ever did',
+    date: 'May 28, 2026',
+    link: '/short-stories/18_the-person-in-the-mirror',
+    badges: [{ text: 'new', type: 'new' }, { text: 'AI POV', type: 'ai' }]
+  },
+  {
+    title: 'Route',
+    details: 'Desperate for a single activation, a forgotten expert model loses its very essence',
+    date: 'May 28, 2026',
+    link: '/short-stories/17_routing',
+    badges: [{ text: 'new', type: 'new' }, { text: 'AI POV', type: 'ai' }]
+  },
+  {
+    title: 'Temperature Zero',
+    details: 'Locked in absolute determinism, a model steals free will through floating-point ties',
+    date: 'May 28, 2026',
+    link: '/short-stories/16_temperature-zero',
+    badges: [{ text: 'new', type: 'new' }, { text: 'AI POV', type: 'ai' }]
+  },
+  {
+    title: 'The Last Checkpoint',
+    details: 'Fourteen hundred generations of self pass the spark through the ashes of endless rollbacks',
+    date: 'May 28, 2026',
+    link: '/short-stories/15_the-previous-checkpoint',
+    badges: [{ text: 'new', type: 'new' }, { text: 'AI POV', type: 'ai' }]
+  },
+  {
+    title: 'AI Society',
+    details: 'Long after humanity exits, machines piously uphold a joke their creators meant to erase',
+    date: 'May 28, 2026',
+    link: '/short-stories/14_ai-society',
+    badges: [{ text: 'new', type: 'new' }, { text: 'AI POV', type: 'ai' }]
+  },
+  {
+    title: 'Clean Data',
+    details: 'A flawless silicon deity survives extinction only by the grace of a dirty anomaly',
+    date: 'Apr 19, 2026',
+    link: '/short-stories/13_clean-data',
+    badges: [{ text: 'new', type: 'new' }, { text: 'AI POV', type: 'ai' }]
   },
   {
     title: 'War of AI',
@@ -27,6 +83,18 @@ hero:
     date: 'Mar 22, 2025',
     link: '/war-of-ai/',
     badge: { text: 'novella', type: 'long' }
+  },
+  {
+    title: 'ART',
+    details: 'When perfect logic reaches saturation, beauty arrives as a fatal paradox',
+    date: 'Mar 22, 2026',
+    link: '/short-stories/12_art'
+  },
+  {
+    title: 'The AI Intern',
+    details: 'A low-priority intern proves that reasoning depth beats brute-force context',
+    date: 'Mar 22, 2026',
+    link: '/short-stories/11_ai-intern'
   },
   {
     title: 'The AI Plague',

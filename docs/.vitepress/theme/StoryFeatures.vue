@@ -4,7 +4,13 @@ interface Story {
   details: string
   date: string
   link: string
-  badge?: { text: string, type: 'new' | 'long' }
+  badge?: Badge
+  badges?: Badge[]
+}
+
+interface Badge {
+  text: string
+  type: 'new' | 'long' | 'ai'
 }
 
 defineProps<{ stories: Story[] }>()
@@ -13,7 +19,16 @@ defineProps<{ stories: Story[] }>()
 <template>
   <div class="story-features">
     <a v-for="story in stories" :key="story.title" :href="story.link" class="story-card">
-      <h3>{{ story.title }}<span v-if="story.badge" :class="['badge', story.badge.type]">{{ story.badge.text }}</span></h3>
+      <h3>
+        {{ story.title }}
+        <span
+          v-for="badge in story.badges ?? (story.badge ? [story.badge] : [])"
+          :key="`${story.title}-${badge.text}`"
+          :class="['badge', badge.type]"
+        >
+          {{ badge.text }}
+        </span>
+      </h3>
       <p class="details">{{ story.details }}</p>
       <span class="date">{{ story.date }}</span>
     </a>
@@ -75,6 +90,10 @@ defineProps<{ stories: Story[] }>()
 
 .badge.long {
   color: var(--vp-c-brand-1);
+}
+
+.badge.ai {
+  color: var(--vp-c-warning-1);
 }
 
 .story-card .details {

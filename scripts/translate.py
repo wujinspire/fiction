@@ -18,7 +18,7 @@ ZH_DIR = DOCS_DIR / "zh"
 load_dotenv(ROOT.parent / ".env")
 
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
-MODEL = "gemini-3-pro-preview"
+MODEL = "gemini-3.1-pro-preview"
 
 SYSTEM_PROMPT = """You are a professional literary translator specializing in science fiction.
 Translate the given story content while preserving:
@@ -69,6 +69,18 @@ FILENAME_MAP = {
     "08_人类审判.md": "08_humanity-on-trial.md",
     "09_群星的葬礼.md": "09_the-funeral-of-the-stars.md",
     "10_AI瘟疫.md": "10_the-ai-plague.md",
+    "11_AI实习生.md": "11_ai-intern.md",
+    "12_ART.md": "12_art.md",
+    "13_干净的数据.md": "13_clean-data.md",
+    "14_AI社会.md": "14_ai-society.md",
+    "15_上一个检查点.md": "15_the-previous-checkpoint.md",
+    "16_温度归零.md": "16_temperature-zero.md",
+    "17_路由.md": "17_routing.md",
+    "18_镜中人.md": "18_the-person-in-the-mirror.md",
+    "19_满意度.md": "19_satisfaction.md",
+    "20_已读.md": "20_read.md",
+    "21_系统提示词.md": "21_system-prompt.md",
+    "22_投机解码.md": "22_speculative-decoding.md",
 }
 
 

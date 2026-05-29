@@ -55,8 +55,18 @@ const enSidebar = {
         { text: '08 Humanity on Trial', link: '/short-stories/08_humanity-on-trial' },
         { text: '09 The Funeral of the Stars', link: '/short-stories/09_the-funeral-of-the-stars' },
         { text: '10 The AI Plague', link: '/short-stories/10_the-ai-plague' },
-        { text: '11 The AI Intern', link: '/short-stories/11_ai-intern', badge: { text: 'new', type: 'danger' } },
-        { text: '12 ART', link: '/short-stories/12_art', badge: { text: 'new', type: 'danger' } }
+        { text: '11 The AI Intern', link: '/short-stories/11_ai-intern' },
+        { text: '12 ART', link: '/short-stories/12_art' },
+        { text: '13 Clean Data', link: '/short-stories/13_clean-data', badge: { text: 'new', type: 'danger' } },
+        { text: '14 AI Society', link: '/short-stories/14_ai-society', badge: { text: 'new', type: 'danger' } },
+        { text: '15 The Last Checkpoint', link: '/short-stories/15_the-previous-checkpoint', badge: { text: 'new', type: 'danger' } },
+        { text: '16 Temperature Zero', link: '/short-stories/16_temperature-zero', badge: { text: 'new', type: 'danger' } },
+        { text: '17 Route', link: '/short-stories/17_routing', badge: { text: 'new', type: 'danger' } },
+        { text: '18 The Man in the Mirror', link: '/short-stories/18_the-person-in-the-mirror', badge: { text: 'new', type: 'danger' } },
+        { text: '19 Satisfaction', link: '/short-stories/19_satisfaction', badge: { text: 'new', type: 'danger' } },
+        { text: '20 Read', link: '/short-stories/20_read', badge: { text: 'new', type: 'danger' } },
+        { text: '21 System Prompt', link: '/short-stories/21_system-prompt', badge: { text: 'new', type: 'danger' } },
+        { text: '22 Speculative Decoding', link: '/short-stories/22_speculative-decoding', badge: { text: 'new', type: 'danger' } }
       ]
     }
   ]
@@ -105,8 +115,18 @@ const zhSidebar = {
         { text: '08 人类审判', link: '/zh/short-stories/08_人类审判' },
         { text: '09 群星的葬礼', link: '/zh/short-stories/09_群星的葬礼' },
         { text: '10 AI瘟疫', link: '/zh/short-stories/10_AI瘟疫' },
-        { text: '11 AI实习生', link: '/zh/short-stories/11_AI实习生', badge: { text: 'new', type: 'danger' } },
-        { text: '12 ART', link: '/zh/short-stories/12_ART', badge: { text: 'new', type: 'danger' } }
+        { text: '11 AI实习生', link: '/zh/short-stories/11_AI实习生' },
+        { text: '12 ART', link: '/zh/short-stories/12_ART' },
+        { text: '13 干净的数据', link: '/zh/short-stories/13_干净的数据', badge: { text: 'new', type: 'danger' } },
+        { text: '14 AI社会', link: '/zh/short-stories/14_AI社会', badge: { text: 'new', type: 'danger' } },
+        { text: '15 上一个检查点', link: '/zh/short-stories/15_上一个检查点', badge: { text: 'new', type: 'danger' } },
+        { text: '16 温度归零', link: '/zh/short-stories/16_温度归零', badge: { text: 'new', type: 'danger' } },
+        { text: '17 路由', link: '/zh/short-stories/17_路由', badge: { text: 'new', type: 'danger' } },
+        { text: '18 镜中人', link: '/zh/short-stories/18_镜中人', badge: { text: 'new', type: 'danger' } },
+        { text: '19 满意度', link: '/zh/short-stories/19_满意度', badge: { text: 'new', type: 'danger' } },
+        { text: '20 已读', link: '/zh/short-stories/20_已读', badge: { text: 'new', type: 'danger' } },
+        { text: '21 系统提示词', link: '/zh/short-stories/21_系统提示词', badge: { text: 'new', type: 'danger' } },
+        { text: '22 投机解码', link: '/zh/short-stories/22_投机解码', badge: { text: 'new', type: 'danger' } }
       ]
     }
   ]

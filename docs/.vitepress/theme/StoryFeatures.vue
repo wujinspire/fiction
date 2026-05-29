@@ -10,7 +10,7 @@ interface Story {
 
 interface Badge {
   text: string
-  type: 'new' | 'long' | 'ai'
+  type: 'new' | 'long' | 'pov'
 }
 
 defineProps<{ stories: Story[] }>()
@@ -92,7 +92,7 @@ defineProps<{ stories: Story[] }>()
   color: var(--vp-c-brand-1);
 }
 
-.badge.ai {
+.badge.pov {
   color: var(--vp-c-warning-1);
 }
 

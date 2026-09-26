@@ -12,7 +12,7 @@ hero:
     details: '十章中篇。在物质丰裕的时代，我成为十三名研究候选人之一',
     date: 'Sep 26, 2026',
     link: '/zh/post-agi',
-    badges: [{ text: '中篇', type: 'long' }, { text: '第一人称', type: 'pov' }]
+    badge: { text: '中篇', type: 'long' }
   },
   {
     title: 'War of AI',

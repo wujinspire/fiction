@@ -12,7 +12,7 @@ hero:
     details: 'A ten-chapter novella: in a world of abundance, I become one of thirteen research candidates',
     date: 'Sep 26, 2026',
     link: '/post-agi',
-    badges: [{ text: 'novella', type: 'long' }, { text: 'POV', type: 'pov' }]
+    badge: { text: 'novella', type: 'long' }
   },
   {
     title: 'War of AI',

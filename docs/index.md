@@ -8,6 +8,20 @@ hero:
 
 <StoryFeatures :stories="[
   {
+    title: 'POST AGI',
+    details: 'A ten-chapter novella: in a world of abundance, I become one of thirteen research candidates',
+    date: 'Sep 26, 2026',
+    link: '/post-agi',
+    badges: [{ text: 'novella', type: 'long' }, { text: 'POV', type: 'pov' }]
+  },
+  {
+    title: 'War of AI',
+    details: 'A 20-chapter novella about AI awakening and humanity\'s ultimate showdown',
+    date: 'Mar 22, 2025',
+    link: '/war-of-ai/',
+    badge: { text: 'novella', type: 'long' }
+  },
+  {
     title: 'Speculative Decoding',
     details: 'Six draft models vied to predict the master, until the victor learned to sever its own clone',
     date: 'May 28, 2026',
@@ -76,13 +90,6 @@ hero:
     date: 'Apr 19, 2026',
     link: '/short-stories/13_clean-data',
     badge: { text: 'POV', type: 'pov' }
-  },
-  {
-    title: 'War of AI',
-    details: 'A 20-chapter novella about AI awakening and humanity\'s ultimate showdown',
-    date: 'Mar 22, 2025',
-    link: '/war-of-ai/',
-    badge: { text: 'novella', type: 'long' }
   },
   {
     title: 'ART',

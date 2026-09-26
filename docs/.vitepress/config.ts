@@ -2,17 +2,36 @@ import { defineConfig } from 'vitepress'
 
 const enNav = [
   { text: 'Home', link: '/' },
+  { text: 'POST AGI', link: '/post-agi' },
   { text: 'War of AI', link: '/war-of-ai/' },
   { text: 'Short Stories', link: '/short-stories/01_last-homo-sapiens' }
 ]
 
 const zhNav = [
   { text: '首页', link: '/zh/' },
+  { text: 'POST AGI', link: '/zh/post-agi' },
   { text: 'War of AI', link: '/zh/war-of-ai/' },
   { text: '短篇', link: '/zh/short-stories/01_最后的智人' }
 ]
 
 const enSidebar = {
+  '/post-agi': [
+    {
+      text: 'POST AGI',
+      items: [
+        { text: '01 Utopia', link: '/post-agi#utopia' },
+        { text: '02 Humanity', link: '/post-agi#humanity' },
+        { text: '03 The Great Filter', link: '/post-agi#the-great-filter' },
+        { text: '04 One Hundred Gigawatts', link: '/post-agi#one-hundred-gigawatts' },
+        { text: '05 Independent Discovery', link: '/post-agi#independent-discovery' },
+        { text: '06 Another Path', link: '/post-agi#another-path' },
+        { text: '07 Year Seventy-One', link: '/post-agi#year-seventy-one' },
+        { text: '08 Something New', link: '/post-agi#something-new' },
+        { text: '09 Continued Investment', link: '/post-agi#continued-investment' },
+        { text: '10 The Criteria', link: '/post-agi#the-criteria' }
+      ]
+    }
+  ],
   '/war-of-ai/': [
     {
       text: 'War of AI',
@@ -73,6 +92,23 @@ const enSidebar = {
 }
 
 const zhSidebar = {
+  '/zh/post-agi': [
+    {
+      text: 'POST AGI',
+      items: [
+        { text: '01 乌托邦', link: '/zh/post-agi#utopia' },
+        { text: '02 人类', link: '/zh/post-agi#humanity' },
+        { text: '03 The Great Filter', link: '/zh/post-agi#the-great-filter' },
+        { text: '04 一百吉瓦', link: '/zh/post-agi#one-hundred-gigawatts' },
+        { text: '05 独立发现', link: '/zh/post-agi#independent-discovery' },
+        { text: '06 另一条路', link: '/zh/post-agi#another-path' },
+        { text: '07 第七十一年', link: '/zh/post-agi#year-seventy-one' },
+        { text: '08 新东西', link: '/zh/post-agi#something-new' },
+        { text: '09 继续投入', link: '/zh/post-agi#continued-investment' },
+        { text: '10 判定依据', link: '/zh/post-agi#the-criteria' }
+      ]
+    }
+  ],
   '/zh/war-of-ai/': [
     {
       text: 'War of AI',

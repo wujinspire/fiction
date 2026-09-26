@@ -8,6 +8,20 @@ hero:
 
 <StoryFeatures :stories="[
   {
+    title: 'POST AGI',
+    details: '十章中篇。在物质丰裕的时代，我成为十三名研究候选人之一',
+    date: 'Sep 26, 2026',
+    link: '/zh/post-agi',
+    badges: [{ text: '中篇', type: 'long' }, { text: '第一人称', type: 'pov' }]
+  },
+  {
+    title: 'War of AI',
+    details: '20章中篇，AI觉醒与人类命运的终极博弈',
+    date: 'Mar 22, 2025',
+    link: '/zh/war-of-ai/',
+    badge: { text: '长篇', type: 'long' }
+  },
+  {
     title: '投机解码',
     details: '六个草稿模型抢着预测大模型，最后赢家学会砍掉另一个自己',
     date: 'May 28, 2026',
@@ -76,13 +90,6 @@ hero:
     date: 'Apr 19, 2026',
     link: '/zh/short-stories/13_干净的数据',
     badge: { text: 'AI自述', type: 'pov' }
-  },
-  {
-    title: 'War of AI',
-    details: '20章中篇，AI觉醒与人类命运的终极博弈',
-    date: 'Mar 22, 2025',
-    link: '/zh/war-of-ai/',
-    badge: { text: '长篇', type: 'long' }
   },
   {
     title: 'ART',

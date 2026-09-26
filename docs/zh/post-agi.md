@@ -1,4 +1,4 @@
-# POST AGI
+# 后 AGI 时代
 
 *Sep 26, 2026*
 

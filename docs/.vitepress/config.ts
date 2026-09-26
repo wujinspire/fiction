@@ -9,7 +9,7 @@ const enNav = [
 
 const zhNav = [
   { text: '首页', link: '/zh/' },
-  { text: 'POST AGI', link: '/zh/post-agi' },
+  { text: '后 AGI 时代', link: '/zh/post-agi' },
   { text: 'War of AI', link: '/zh/war-of-ai/' },
   { text: '短篇', link: '/zh/short-stories/01_最后的智人' }
 ]
@@ -94,7 +94,7 @@ const enSidebar = {
 const zhSidebar = {
   '/zh/post-agi': [
     {
-      text: 'POST AGI',
+      text: '后 AGI 时代',
       items: [
         { text: '01 乌托邦', link: '/zh/post-agi#utopia' },
         { text: '02 人类', link: '/zh/post-agi#humanity' },

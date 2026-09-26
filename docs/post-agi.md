@@ -42,7 +42,7 @@ At dusk, the results of the final review popped up on my retina.
 
 Between voluntary withdrawals and today’s final computational assessment, 99.99% of the remaining candidates had been stripped away. In this cohort, exactly thirteen people received the invitation to continue cultivation.
 
-I was one of them. And at the edge of the list, I saw a familiar name: Lin. A peer I occasionally bumped into in the cross-disciplinary seminar rooms over the past few years, someone who always just sat silently listening to others speak.
+I was one of them. And at the edge of the list, I saw a familiar name: Young. A peer I occasionally bumped into in the cross-disciplinary seminar rooms over the past few years, someone who always just sat silently listening to others speak.
 
 ## 4. One Hundred Gigawatts {#one-hundred-gigawatts}
 
@@ -78,9 +78,9 @@ I looked at that eighty-year-old paper, my heartbeat slowly returning to normal.
 
 I began to pivot, actively steering clear of mature fields that had been repeatedly steamrolled by predecessors.
 
-I spent a massive amount of time reading fringe materials across different disciplines, searching for variables that had never been discussed in the same room. During this process, Lin and I crossed paths in the virtual hub’s physics sandbox more and more often. Gradually, Lin became my regular sounding board.
+I spent a massive amount of time reading fringe materials across different disciplines, searching for variables that had never been discussed in the same room. During this process, Young and I crossed paths in the virtual hub’s physics sandbox more and more often. Gradually, Young became my regular sounding board.
 
-We would take walks, debating the boundaries of information entropy in a simulated Cretaceous jungle, or using our toes to trace complex formulas in the silent dust of the Martian surface. Lin didn't speak much, but every word was razor-sharp. Sometimes, a computational bottleneck I'd been stuck on for weeks would instantly shatter just because of a casual, offhand remark from Lin.
+We would take walks, debating the boundaries of information entropy in a simulated Cretaceous jungle, or using our toes to trace complex formulas in the silent dust of the Martian surface. Young didn't speak much, but every word was razor-sharp. Sometimes, a computational bottleneck I'd been stuck on for weeks would instantly shatter just because of a casual, offhand remark from Young.
 
 Early one morning a year later, I once again thought I had caught something new. It was a cross-solution regarding dark matter density fluctuations and non-standard gravitational wave models.
 
@@ -100,9 +100,9 @@ That was the last time in human history that a theoretical breakthrough was driv
 
 To the free citizens outside, "71 years without a new human discovery" was a painless piece of historical trivia. It didn't affect their lives; the AI smoothly drove technological iteration, and society ran perfectly. But to those of us left in the institute, that number was a stopwatch hanging over our heads, one that could never be reset to zero. It ticked endlessly, mocking our efforts.
 
-I wanted to find some replicable methodology from the experiences of our predecessors. Through this anxious process, my relationship with Lin deepened. We were like two fish diving alone in the abyss, the only ones who could hear each other’s sonar.
+I wanted to find some replicable methodology from the experiences of our predecessors. Through this anxious process, my relationship with Young deepened. We were like two fish diving alone in the abyss, the only ones who could hear each other’s sonar.
 
-Lin's gaze always seemed fixed on something further away, something more void than what I was looking at. Lin's research began to undergo highly abstract shifts, and even I struggled to keep up with that kind of non-linear thinking. But neither of us called out the change. I stubbornly believed we were just two comrades standing back-to-back in this massive labyrinth, each looking for our own exit.
+Young's gaze always seemed fixed on something further away, something more void than what I was looking at. Young's research began to undergo highly abstract shifts, and even I struggled to keep up with that kind of non-linear thinking. But neither of us called out the change. I stubbornly believed we were just two comrades standing back-to-back in this massive labyrinth, each looking for our own exit.
 
 ## 8. Something New {#something-new}
 
@@ -110,7 +110,7 @@ This was the longest, most obsessively involved research project of my life.
 
 The lessons from the first two times were branded into my subconscious. I became intensely paranoid. At every step of the derivation, I constantly ran reverse queries with the system, actively probing for any known results that even slightly grazed my topic, brutally pruning any path that looked remotely repetitive.
 
-I grew increasingly guarded about my own intuition, developing a solitary, territorial protectiveness. I stopped telling anyone about my progress in this direction—not even Lin. I was terrified that even a single discussion would reveal my idea had already been chewed up and spat out by someone else.
+I grew increasingly guarded about my own intuition, developing a solitary, territorial protectiveness. I stopped telling anyone about my progress in this direction—not even Young. I was terrified that even a single discussion would reveal my idea had already been chewed up and spat out by someone else.
 
 For two full years, I immersed myself in pure symbols and computation. Finally, I proposed an entirely new descriptive framework that even I found bizarre, yet perfectly logically self-consistent. To translate this theory into a verifiable physical result, I requested an unprecedentedly massive computing and experimental window.
 

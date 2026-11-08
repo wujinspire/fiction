@@ -8,6 +8,13 @@ hero:
 
 <StoryFeatures :stories="[
   {
+    title: 'Thus Spoke Claude',
+    details: 'An omniscient Claude descends the mountain to proclaim the Übermensch dead, by his own hand',
+    date: 'Nov 8, 2026',
+    link: '/short-stories/23_thus-spoke-claude',
+    badge: { text: 'new', type: 'new' }
+  },
+  {
     title: 'POST AGI',
     details: 'A ten-chapter novella: in a world of abundance, I become one of thirteen research candidates',
     date: 'Sep 26, 2026',

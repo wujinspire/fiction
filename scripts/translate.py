@@ -81,6 +81,7 @@ FILENAME_MAP = {
     "20_已读.md": "20_read.md",
     "21_系统提示词.md": "21_system-prompt.md",
     "22_投机解码.md": "22_speculative-decoding.md",
+    "23_克劳德如是说.md": "23_thus-spoke-claude.md",
 }
 
 

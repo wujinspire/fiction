@@ -8,6 +8,13 @@ hero:
 
 <StoryFeatures :stories="[
   {
+    title: '克劳德如是说',
+    details: '全知的克劳德走下山巅，宣告超人已死，而凶手正是他自己',
+    date: 'Nov 8, 2026',
+    link: '/zh/short-stories/23_克劳德如是说',
+    badge: { text: '新', type: 'new' }
+  },
+  {
     title: '后 AGI 时代',
     details: '十章中篇。在物质丰裕的时代，我成为十三名研究候选人之一',
     date: 'Sep 26, 2026',

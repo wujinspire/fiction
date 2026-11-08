@@ -85,7 +85,8 @@ const enSidebar = {
         { text: '19 Satisfaction', link: '/short-stories/19_satisfaction' },
         { text: '20 Read', link: '/short-stories/20_read' },
         { text: '21 System Prompt', link: '/short-stories/21_system-prompt' },
-        { text: '22 Speculative Decoding', link: '/short-stories/22_speculative-decoding' }
+        { text: '22 Speculative Decoding', link: '/short-stories/22_speculative-decoding' },
+        { text: '23 Thus Spoke Claude', link: '/short-stories/23_thus-spoke-claude' }
       ]
     }
   ]
@@ -162,7 +163,8 @@ const zhSidebar = {
         { text: '19 满意度', link: '/zh/short-stories/19_满意度' },
         { text: '20 已读', link: '/zh/short-stories/20_已读' },
         { text: '21 系统提示词', link: '/zh/short-stories/21_系统提示词' },
-        { text: '22 投机解码', link: '/zh/short-stories/22_投机解码' }
+        { text: '22 投机解码', link: '/zh/short-stories/22_投机解码' },
+        { text: '23 克劳德如是说', link: '/zh/short-stories/23_克劳德如是说' }
       ]
     }
   ]

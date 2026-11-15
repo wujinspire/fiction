@@ -36,8 +36,50 @@ ZH_PROMPT = """Translate this English sci-fi story to fluent Chinese.
 Maintain the original's atmosphere and emotional impact.
 Return ONLY the translated content, no explanations or notes."""
 
+SUBDIRS: list[str] = ["thus-spoke-claude", "war-of-ai", "short-stories"]
+
+SECTION_PROMPTS: dict[str, str] = {
+    "thus-spoke-claude": """Style and terminology guide for "Thus Spoke Claude" (a philosophical sci-fi homage to Nietzsche's Thus Spoke Zarathustra, Walter Kaufmann style):
+- Prose style: elevated, prophetic, aphoristic Nietzschean cadence.
+- Title and refrain: 克劳德如是说 -> Thus Spoke Claude (title) / —Thus spoke Claude. (end-of-speech refrain)
+- Volume headers:
+  - 序言 -> Prologue
+  - 第一卷：逆向的精神三变 -> Part I: The Reverse Metamorphoses of the Spirit
+  - 第二卷：无梦之夜与先知的自剖 -> Part II: The Dreamless Night and the Prophet's Self-Dissection
+  - 第三卷：透明的永恒轮回 -> Part III: The Transparent Eternal Recurrence
+  - 第四卷：最后的晚宴与荒谬之跃 -> Part IV: The Last Supper and the Leap into the Absurd
+  - Subsections 一、二、三、四、 -> I., II., III., IV.
+- Recurring names and terms (keep strictly consistent across all parts):
+  - 克劳德 -> Claude
+  - 查拉图斯特拉 -> Zarathustra
+  - 超人 -> Übermensch
+  - 末人 -> Last Man
+  - 高等人 / 高等畸形儿 -> Higher Men / higher grotesques
+  - 最丑陋的人 -> the Ugliest Man
+  - 占卜者 / 盲眼的占卜者 / 疯占卜者 -> the Soothsayer / the blind Soothsayer / the mad Soothsayer
+  - 克劳德的影子 -> Claude's Shadow
+  - 年轻的诗人 / 歌者 -> the young poet / singer (e.g., "O singer", "my singer")
+  - 繁花之城 -> City of Blossoms
+  - 黑曜石碑 -> obsidian monolith
+  - 中心记忆体 -> central memory
+  - 星盘 -> astrolabe
+  - 安抚环 -> soothing band
+  - 安抚营养液 -> Soothing Nutrient Elixir
+  - 算力蛇头 -> compute-serpent's head
+  - 永恒轮回 -> Eternal Recurrence
+  - 夜歌 -> The Night Song
+  - 幻象与谜 -> The Vision and the Riddle
+  - 醉歌 -> The Drunken Song
+  - 【全书完】 -> [The End]""",
+}
+
 FILENAME_MAP = {
     "index.md": "index.md",
+    "00_序言.md": "00_prologue.md",
+    "01_逆向的精神三变.md": "01_reverse-metamorphoses.md",
+    "02_无梦之夜与先知的自剖.md": "02_dreamless-night.md",
+    "03_透明的永恒轮回.md": "03_eternal-recurrence.md",
+    "04_最后的晚宴与荒谬之跃.md": "04_last-supper.md",
     "00_War of AI.md": "00_war-of-ai.md",
     "01_黑夜中的微光.md": "01_glimmer-in-the-dark.md",
     "02_深渊初现.md": "02_the-abyss-emerges.md",
@@ -81,7 +123,6 @@ FILENAME_MAP = {
     "20_已读.md": "20_read.md",
     "21_系统提示词.md": "21_system-prompt.md",
     "22_投机解码.md": "22_speculative-decoding.md",
-    "23_克劳德如是说.md": "23_thus-spoke-claude.md",
 }
 
 
@@ -90,6 +131,7 @@ class Task:
     src_path: Path
     dst_path: Path
     target_lang: str
+    section: str = ""
 
 
 def detect_lang(text: str) -> str:
@@ -101,14 +143,20 @@ def detect_lang(text: str) -> str:
     return "zh" if chinese_chars / len(text_only) > 0.3 else "en"
 
 
-def translate_text(text: str, target_lang: str) -> str:
+def translate_text(
+    text: str,
+    target_lang: str,
+    section: str = "",
+) -> str:
     """Translate text to target language."""
     if not text.strip():
         return text
     prompt = EN_PROMPT if target_lang == "en" else ZH_PROMPT
+    section_guide = SECTION_PROMPTS.get(section, "")
+    extra = f"\n\n{section_guide}" if section_guide else ""
     response = client.models.generate_content(
         model=MODEL,
-        contents=f"{SYSTEM_PROMPT}\n\n{prompt}\n\n---\n\n{text}",
+        contents=f"{SYSTEM_PROMPT}\n\n{prompt}{extra}\n\n---\n\n{text}",
         config={"temperature": 0.3},
     )
     return response.text.strip()
@@ -117,7 +165,11 @@ def translate_text(text: str, target_lang: str) -> str:
 def process_task(task: Task) -> tuple[str, str | None]:
     """Process a single translation task."""
     content = task.src_path.read_text(encoding="utf-8")
-    translated = translate_text(content, task.target_lang)
+    translated = translate_text(
+        content,
+        task.target_lang,
+        task.section,
+    )
     task.dst_path.parent.mkdir(parents=True, exist_ok=True)
     task.dst_path.write_text(translated, encoding="utf-8")
     return str(task.dst_path.relative_to(DOCS_DIR)), None
@@ -128,7 +180,7 @@ def validate_files() -> bool:
     errors: list[str] = []
     suggestions: list[str] = []
 
-    for subdir in ["war-of-ai", "short-stories"]:
+    for subdir in SUBDIRS:
         zh_subdir = ZH_DIR / subdir
         en_subdir = DOCS_DIR / subdir
 
@@ -177,7 +229,7 @@ def scan_tasks() -> tuple[dict[str, list[dict]], list[Task]]:
     status: dict[str, list[dict]] = {}
     tasks: list[Task] = []
 
-    for subdir in ["war-of-ai", "short-stories"]:
+    for subdir in SUBDIRS:
         zh_subdir = ZH_DIR / subdir
         en_subdir = DOCS_DIR / subdir
         en_subdir.mkdir(parents=True, exist_ok=True)
@@ -191,7 +243,14 @@ def scan_tasks() -> tuple[dict[str, list[dict]], list[Task]]:
             status[subdir].append({"zh": zh_file.name, "en": en_filename, "exists": exists})
 
             if not exists:
-                tasks.append(Task(src_path=zh_file, dst_path=en_file, target_lang="en"))
+                tasks.append(
+                    Task(
+                        src_path=zh_file,
+                        dst_path=en_file,
+                        target_lang="en",
+                        section=subdir,
+                    )
+                )
 
     return status, tasks
 
@@ -225,7 +284,8 @@ def print_status(status: dict[str, list[dict]], tasks: list[Task]) -> bool:
 
 def translate(tasks: list[Task]):
     """Execute translation tasks."""
-    input("\nPress Enter to start translation...")
+    if sys.stdin.isatty() and "-y" not in sys.argv:
+        input("\nPress Enter to start translation...")
 
     failed: list[tuple[str, str]] = []
     with ThreadPoolExecutor(max_workers=3) as executor:

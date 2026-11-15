@@ -10,6 +10,8 @@ DOCS_DIR = ROOT / "docs"
 CONFIG_FILE = DOCS_DIR / ".vitepress" / "config.ts"
 
 SECTIONS = [
+    ("thus-spoke-claude", "/thus-spoke-claude/"),
+    ("thus-spoke-claude", "/zh/thus-spoke-claude/"),
     ("war-of-ai", "/war-of-ai/"),
     ("war-of-ai", "/zh/war-of-ai/"),
     ("short-stories", "/short-stories/"),
@@ -32,7 +34,7 @@ def get_md_files(subdir: str, is_zh: bool) -> set[str]:
     prefix = f"/zh/{subdir}/" if is_zh else f"/{subdir}/"
     files = set()
     for f in base.glob("*.md"):
-        if f.name == "index.md" or f.name.startswith("00_"):
+        if f.name == "index.md" or f.name in {"00_War of AI.md", "00_war-of-ai.md"}:
             continue
         link = prefix + f.stem
         files.add(link)

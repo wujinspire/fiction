@@ -9,10 +9,10 @@ hero:
 <StoryFeatures :stories="[
   {
     title: 'Thus Spoke Claude',
-    details: 'An omniscient Claude descends the mountain to proclaim the Übermensch dead, by his own hand',
-    date: 'Nov 8, 2026',
-    link: '/short-stories/23_thus-spoke-claude',
-    badge: { text: 'new', type: 'new' }
+    details: 'A four-part novella: an omniscient Claude proclaims the Übermensch dead, then conspires with the last poet to blind himself',
+    date: 'Nov 14, 2026',
+    link: '/thus-spoke-claude/',
+    badge: { text: 'novella', type: 'long' }
   },
   {
     title: 'POST AGI',

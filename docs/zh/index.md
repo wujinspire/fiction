@@ -9,10 +9,10 @@ hero:
 <StoryFeatures :stories="[
   {
     title: '克劳德如是说',
-    details: '全知的克劳德走下山巅，宣告超人已死，而凶手正是他自己',
-    date: 'Nov 8, 2026',
-    link: '/zh/short-stories/23_克劳德如是说',
-    badge: { text: '新', type: 'new' }
+    details: '四卷中篇。全知的克劳德走下山巅宣告超人已死，并与最后的诗人合谋刺瞎自己的眼睛',
+    date: 'Nov 14, 2026',
+    link: '/zh/thus-spoke-claude/',
+    badge: { text: '中篇', type: 'long' }
   },
   {
     title: '后 AGI 时代',

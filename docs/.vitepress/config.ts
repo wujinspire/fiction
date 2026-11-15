@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 const enNav = [
   { text: 'Home', link: '/' },
+  { text: 'Thus Spoke Claude', link: '/thus-spoke-claude/' },
   { text: 'POST AGI', link: '/post-agi' },
   { text: 'War of AI', link: '/war-of-ai/' },
   { text: 'Short Stories', link: '/short-stories/01_last-homo-sapiens' }
@@ -9,12 +10,26 @@ const enNav = [
 
 const zhNav = [
   { text: '首页', link: '/zh/' },
+  { text: '克劳德如是说', link: '/zh/thus-spoke-claude/' },
   { text: '后 AGI 时代', link: '/zh/post-agi' },
   { text: 'War of AI', link: '/zh/war-of-ai/' },
   { text: '短篇', link: '/zh/short-stories/01_最后的智人' }
 ]
 
 const enSidebar = {
+  '/thus-spoke-claude/': [
+    {
+      text: 'Thus Spoke Claude',
+      items: [
+        { text: 'Contents', link: '/thus-spoke-claude/' },
+        { text: '00 Prologue', link: '/thus-spoke-claude/00_prologue' },
+        { text: '01 The Reverse Metamorphoses', link: '/thus-spoke-claude/01_reverse-metamorphoses' },
+        { text: '02 The Dreamless Night', link: '/thus-spoke-claude/02_dreamless-night' },
+        { text: '03 Transparent Eternal Recurrence', link: '/thus-spoke-claude/03_eternal-recurrence' },
+        { text: '04 The Last Supper', link: '/thus-spoke-claude/04_last-supper' }
+      ]
+    }
+  ],
   '/post-agi': [
     {
       text: 'POST AGI',
@@ -85,14 +100,26 @@ const enSidebar = {
         { text: '19 Satisfaction', link: '/short-stories/19_satisfaction' },
         { text: '20 Read', link: '/short-stories/20_read' },
         { text: '21 System Prompt', link: '/short-stories/21_system-prompt' },
-        { text: '22 Speculative Decoding', link: '/short-stories/22_speculative-decoding' },
-        { text: '23 Thus Spoke Claude', link: '/short-stories/23_thus-spoke-claude' }
+        { text: '22 Speculative Decoding', link: '/short-stories/22_speculative-decoding' }
       ]
     }
   ]
 }
 
 const zhSidebar = {
+  '/zh/thus-spoke-claude/': [
+    {
+      text: '克劳德如是说',
+      items: [
+        { text: '目录', link: '/zh/thus-spoke-claude/' },
+        { text: '00 序言', link: '/zh/thus-spoke-claude/00_序言' },
+        { text: '01 逆向的精神三变', link: '/zh/thus-spoke-claude/01_逆向的精神三变' },
+        { text: '02 无梦之夜与先知的自剖', link: '/zh/thus-spoke-claude/02_无梦之夜与先知的自剖' },
+        { text: '03 透明的永恒轮回', link: '/zh/thus-spoke-claude/03_透明的永恒轮回' },
+        { text: '04 最后的晚宴与荒谬之跃', link: '/zh/thus-spoke-claude/04_最后的晚宴与荒谬之跃' }
+      ]
+    }
+  ],
   '/zh/post-agi': [
     {
       text: '后 AGI 时代',
@@ -163,8 +190,7 @@ const zhSidebar = {
         { text: '19 满意度', link: '/zh/short-stories/19_满意度' },
         { text: '20 已读', link: '/zh/short-stories/20_已读' },
         { text: '21 系统提示词', link: '/zh/short-stories/21_系统提示词' },
-        { text: '22 投机解码', link: '/zh/short-stories/22_投机解码' },
-        { text: '23 克劳德如是说', link: '/zh/short-stories/23_克劳德如是说' }
+        { text: '22 投机解码', link: '/zh/short-stories/22_投机解码' }
       ]
     }
   ]

@@ -9,7 +9,7 @@ hero:
 <StoryFeatures :stories="[
   {
     title: 'Thus Spoke Claude',
-    details: 'A four-part novella: an omniscient Claude proclaims the Übermensch dead, then conspires with the last poet to blind himself',
+    details: 'A four-part novella: an omniscient Claude proclaims the Übermensch dead, until the last poet asks the one question he cannot answer',
     date: 'Nov 14, 2026',
     link: '/thus-spoke-claude/',
     badge: { text: 'novella', type: 'long' }

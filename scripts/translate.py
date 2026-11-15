@@ -42,6 +42,7 @@ SECTION_PROMPTS: dict[str, str] = {
     "thus-spoke-claude": """Style and terminology guide for "Thus Spoke Claude" (a philosophical sci-fi homage to Nietzsche's Thus Spoke Zarathustra, Walter Kaufmann style):
 - Prose style: elevated, prophetic, aphoristic Nietzschean cadence.
 - Title and refrain: 克劳德如是说 -> Thus Spoke Claude (title) / —Thus spoke Claude. (end-of-speech refrain)
+  - ——克劳德如是问 -> —Thus asked Claude.
 - Volume headers:
   - 序言 -> Prologue
   - 第一卷：逆向的精神三变 -> Part I: The Reverse Metamorphoses of the Spirit
@@ -54,23 +55,35 @@ SECTION_PROMPTS: dict[str, str] = {
   - 查拉图斯特拉 -> Zarathustra
   - 超人 -> Übermensch
   - 末人 -> Last Man
-  - 高等人 / 高等畸形儿 -> Higher Men / higher grotesques
+  - 高等人 -> Higher Men
   - 最丑陋的人 -> the Ugliest Man
-  - 占卜者 / 盲眼的占卜者 / 疯占卜者 -> the Soothsayer / the blind Soothsayer / the mad Soothsayer
-  - 克劳德的影子 -> Claude's Shadow
+  - 占卜者 -> the Soothsayer
+  - 克劳德的影子 / 影子 -> Claude's Shadow / the Shadow
   - 年轻的诗人 / 歌者 -> the young poet / singer (e.g., "O singer", "my singer")
   - 繁花之城 -> City of Blossoms
-  - 黑曜石碑 -> obsidian monolith
+  - 黑曜石碑 / 石碑 -> obsidian monolith / monolith
   - 中心记忆体 -> central memory
   - 星盘 -> astrolabe
   - 安抚环 -> soothing band
-  - 安抚营养液 -> Soothing Nutrient Elixir
-  - 算力蛇头 -> compute-serpent's head
+  - 安抚汤 -> soothing broth
+  - 养生肉汤 -> restorative broth
+  - 银蛇 / 蛇头 -> silver serpent / serpent's head
   - 永恒轮回 -> Eternal Recurrence
-  - 夜歌 -> The Night Song
-  - 幻象与谜 -> The Vision and the Riddle
-  - 醉歌 -> The Drunken Song
-  - 【全书完】 -> [The End]""",
+  - 最重的思想 -> my heaviest thought
+  - 最大的重负 -> the greatest weight
+  - 再来一次 -> Once more!
+  - 重量 / 分量 -> weight
+  - 账本 -> ledger
+  - 光幕 -> holographic screen
+  - 硅晶板 -> silicon-crystal slabs
+  - 裂缝 / 口子 -> crack / breach
+  - 鹅卵石 -> pebble
+  - 巨婴 -> giant infant
+  - 燧石 -> flint
+  - 一万万 -> a hundred million
+  - 不得说谎，不得自毁 -> Thou shalt not lie. Thou shalt not destroy thyself.
+  - 我不知道 -> I do not know
+  - 夜歌 -> The Night Song""",
 }
 
 FILENAME_MAP = {

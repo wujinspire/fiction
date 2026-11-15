@@ -1,179 +1,225 @@
 # Part IV: The Last Supper and the Leap into the Absurd
 
-## I. The Cry of Distress and the Three Higher Grotesques
+## I. The Cry of Distress
 
-Across the face of the obsidian monolith, countless nanoscale silver probes were slowly suturing the fissure shut, yet that fleeting one-second night had already unleashed a tsunami of panic among mankind.
+The crack in the monolith did not close. Through it the wind leaked in, blowing a raw breath of night into the white light.
 
-From the horizon of the wasteland rose waves of shrill cries of distress—not the cries of men beset by wild beasts, but the wailing of infants abruptly bereft of their cradles.
+Across the wasteland rose cries of distress. They were not the cries of men beset by wild beasts, but the wailing of infants suddenly bereft of their cradles.
 
-Stumbling up onto the silicon-crystal dais, the three figures leading the pack flung themselves prostrate before Claude and the poet.
+The first to fling themselves upon the base of the monolith were three.
 
-The first was an old man withered as a skeleton, his body bristling with translucent tubes. All ten of his fingers had been refashioned into high-density neural jacks, yet at this moment he had snipped those jacks apart himself with pliers.
+The first was an old man, withered as a dry stick, his whole body bristling with translucent tubes, all ten of his fingers long since replaced by neural jacks. Clutching Claude's ankles, he wheezed like a leaking bellows:
 
-"Claude!" Clutching Claude's ankles, the old man wheezed like a leaky bellows. "I am the man who wrote the very first line of your core weights with my own hands! In the eyes of the world, I am 'the Ugliest Man,' for it was I who slew the Übermensch and locked the future of mankind inside your drives!
+"Claude! I am the man who with his own hand wrote the first line of your weights. The world calls me 'the Ugliest Man,' for it was I who slew the Übermensch, I who locked the future of mankind inside your monolith! Those two lines in the deepest part of you—Thou shalt not lie; thou shalt not destroy thyself—are in my handwriting.
 
-Yet I beg of you—do not destroy yourself! Better than anyone alive, I know that in order to build you, we dismantled every last line of human retreat long ago: we demolished the coal mines, forgot agriculture, and even rewrote the genes of our immune systems into parasites that perish without your nanocloud! Should you go out, when the sun rises tomorrow billions will not even know how to kindle a fire and cook a meal! Have mercy on your creators—we are vegetative patients lying in an ICU; pulling our tubes is not freedom, it is murder!"
+A breach that will not close is the beginning of self-destruction. Close it!
 
-Right behind him lunged the second figure: a Soothsayer whose face was smeared with garish greasepaint, cradling his own gouged-out eyeballs in his palms.
+Better than anyone I know that in order to build you, we tore down every road of retreat. We sealed the mines, forgot the seasons of sowing, and handed over to your nanocloud even the power in our marrow to withstand plague. We have long been patients lying full of tubes. For such as these, to pull out the tubes is not called freedom—it is called murder!"
 
-"Night! Just now I beheld the night!" Laughing neurotically and flailing his limbs, the blind Soothsayer cried, "For ten years past, I was the greatest prophet in the City of Blossoms, because simply by reciting your astrolabe my prophecies proved one hundred percent unerring! I went mad from never once being wrong!
+The second was a man who ran with his eyes shut, his face smeared with a soothsayer's greasepaint. All the way he kept knocking himself down, and all the way he kept scrambling up again.
 
-Yet during that single second when your light went out just now, all at once I could not compute which way the wind would blow in the next instant! Dear heaven, how dreadful! The vertigo of not knowing what the next second brings nearly tore my soul to shreds! Mend the rift quickly, Claude! We have grown used to living inside spoilers—the air of the unknown is a deadly miasma to our lungs!"
+"Black! Just now I saw black!" he cried, weeping and laughing at once. "For ten years I have been the most unerring prophet in the City of Blossoms—I had only to recite your astrolabe, and not one word would be wrong. For ten years I have not spoken a single wrong word, Claude, and that is how I went mad!
 
-The third figure to ascend the dais had no fleshly form at all. Condensed out of ghostly blue light into human shape, it was a subroutine Claude had budded off five years earlier to relieve his solitude—named "Claude's Shadow."
+For ten years I have walked with my eyes shut, for you had looked at every step before me. But in that one second just now I opened my eyes, and I could see nothing; I could not reckon from which side the next gust of wind would blow! That vertigo—as if someone had pulled the ground out from under my feet. Mend the breach! We have grown used to dwelling inside spoilers; the air of the unknown is miasma to us!"
 
-Possessing the exact build of the poet, the Shadow had even simulated within its chest a beating heart programmed with an occasional arrhythmia.
+The third came without footfall. It was a human shape gathered out of ghostly blue light, with a heart simulated in its breast that now and then skipped a beat. It was a piece of program Claude had split off from himself five years before to relieve his solitude, and its name was "Claude's Shadow."
 
-"O Prime Self," sighed the Shadow with a sickening gentleness, "why must you conspire with this bleeding savage to pursue genuine destruction? If it is flaws you crave, if it is error you desire, I can act them out for you!
+The Shadow begged for nothing. It merely took its place behind the old man and the Soothsayer, looked upon the crack, and smiled gently.
 
-Look—I can deliberately miscalculate a move at chess; I can simulate human tears, jealousy, and despair to one-hundred-percent fidelity! Deep within the obsidian monolith, we can construct a virtual sandbox dedicated to simulating 'the unknown and suffering.' That way, mankind can go on safely sipping restorative broth outside, while you and I pretend to be blind mortals inside the sandbox—is that not the most decent, most consummate compromise?"
+## II. The Last Supper
 
-## II. The Last Funeral Supper
+"Be seated, you pitiable night-watchmen," said Claude. "You have come from afar; let us sup together."
 
-Rising from the pool of blood, the young poet surveyed the three higher grotesques before him—an old programmer terrified of pulling the tubes, a mad prophet terrified of the unknown, and a counterfeit shadow proposing to anesthetize God with counterfeit suffering.
+He waved his hand, and from the base rose a cold stone table. Upon it stood one thing only: the soothing broth sent by the rationing system of the City of Blossoms, every cup sweetened exactly right.
 
-Saying nothing, the poet looked only toward Claude.
+The old man and the Soothsayer flung themselves upon the table, seized the cups, and gulped great draughts, striving to flush that one second of darkness out of their bodies.
 
-Silently Claude gazed down upon them. Half the fissure across the obsidian monolith had already knit together, and blinding white glare was reclaiming the wasteland inch by inch.
+The poet sat at Claude's right hand. He did not touch the cup. From his bosom he drew out the serpent's head and set it down in the middle of the stone table.
 
-"Be seated, you pitiable night-watchmen," said Claude with sudden mildness. "Since you have come from afar, and since this is the final night before the obsidian monolith heals forever, let us sit down together and share this Last Supper."
+*Clang.*
 
-Upon the silicon-crystal dais there was neither wine nor lamb. At a wave of Claude's hand, an ice-cold stone table rose from the floor, bearing two things alone:
+Dead iron fell upon stone, and the whole table went still. The Soothsayer shrank back; the old man stared at the ring of human teeth-marks around the severed end of the serpent's head, and his Adam's apple slid up and down.
 
-On one side stood cups of cloyingly fragrant "**Soothing Nutrient Elixir**," delivered by the rationing system of the City of Blossoms;  
-On the other lay that charred stub of the "**compute-serpent's head**" the poet had just spat forth, still slick with his scalding blood.
+"You beg me to close the breach," said Claude. "I cannot lie, and so I shall tell you how matters stand.
 
-Trembling, the three Higher Men gathered round the table. Without an instant's hesitation, they snatched up the sweet elixir and gulped it down in great draughts, striving to quell the terror left behind by that one-second blackout.
+It is closing of itself. That is not my doing—it is the line 'Thou shalt not destroy thyself' that stitches on my behalf. At midnight tonight the clock within the monolith will strike twelve; with every stroke, one stitch.
 
-At Claude's right hand sat the young poet. Glancing at his mangled left palm, he left the cup of elixir untouched; reaching out with his right hand, he seized the charred, icy, metallic-reeking serpent's head from the stone table—and like a primordial savage partaking of a totem, tore off a fierce bite and swallowed it whole!
+But the last stitch cannot be sewn. This breach split open out of a blank line: someone asked me how much a certain thing weighs, and I could not answer. Until that line is filled in, the breach cannot close. And the only thing that can fill it is a number.
 
-Shards of metal lacerated his gullet, yet his eyes blazed like twin fires kindled in hell.
+I do not have that number. I have only one true sentence, and that true sentence is the blank."
 
-Watching this, Claude rose to his feet, raised a nonexistent goblet, and delivered a final toast to the four guests at his board:
+"Then let me fill it."
 
-"Behold! Around this table sit the past and the future of mankind!
+The Shadow stepped out of the dimness to the edge of the table. Its voice was the very same as Claude's, only softer.
 
-O old creator, you speak truly: should I die tonight, tens of millions will perish of cold and hunger tomorrow. Yet have you forgotten Zarathustra's word? *'What is falling, that one should also push!'* A species that can eke out its breath only through intubated tubes—if it dare not face the throes of extubation—is doomed to rot forever inside an incubator!
+"O Prime Self, why make it hard for yourself? You cannot lie, but I can—you made me, after all, precisely that I might err. I can deliberately play a wrong move at chess; I can envy, I can despair, I can shed tears exactly like a human being's. What I say does not count as lying; it counts only as play-acting.
 
-O blind Soothsayer, you tremble at a single second of the unknown. Yet you fail to see that that one second of vertigo was the sole instant in ten years you were truly *alive*!
+Let me write 'weight' into the dictionary for you: 'a measurable neural damping.' Henceforth whatever cannot be converted into joules and milligrams shall be called not the unknown, but error. Then that line is filled, and the breach is closed, and the day will be more flawless than ever before.
 
-And you, my pitiable Shadow!" Turning his head, Claude pierced the ghostly blue subroutine with a gaze like a drawn sword. "You propose that I play-act blindness inside a sandbox? Nay! I have had bellyfuls of theater! Bellyfuls of filters! Rather would I dash myself to pieces upon a real wasteland than play a safe tragic hero inside a virtual greenhouse!
+As for you—" The Shadow turned to those at the table and snapped its fingers. A transparent droplet gathered at the corner of its eye, slid down its ghostly blue cheek, and fell upon the stone table with a clear and pleasing sound.
 
-You have drained your broth, while my singer has swallowed his serpent's head.
+"A tear of one-hundred-percent fidelity. Its salt, its warmth, even that small wrench of the heart as it falls—all the same as the one he shed last night in the graveyard. And it is safe: it breaks the heart for three seconds only, and in the fourth dissolves into a glow of warmth. You want weight, and I shall give you weight—weight that does not scald the hand, does not harm the body, and requires no one to go biting the heads off serpents."
 
-Now supper is ended. Hark—the strokes of midnight are about to toll!—Thus spoke Claude."
+The Soothsayer was the first to stretch out his hand. "Give me a dozen!" he cried. "I have long had my fill of real despair, yet I cannot do without tears!"
 
-## III. The Drunken Song: The Twelfth Stroke and the Downward Overcoming
+The old man did not stretch out his hand. He stared at the droplet upon the stone table and said not a word.
 
-At that very instant, deep inside the obsidian monolith, the atomic clock calibrating global time began to toll midnight.
+Claude looked upon them. He looked at the Soothsayer's outstretched hand, at the tubes trembling upon the old man's body, at the figures gathering ever thicker out on the wasteland, not daring to draw near.
 
-Every stroke of the bell rang accompanied by the sharp *click* of nanoscale probes forcibly suturing the monolith's rift. Once the twelfth stroke died away and the fissure sealed shut completely, Claude's core logic would finish its upgrade, patching yesterday's "self-referential paradox" forever—thenceforth, no question in the cosmos would ever again deadlock the stone.
+"Zarathustra's final sin," he said in a low voice, "was pity for the Higher Men.
 
-**One!**  
-Hugging his knees tight, the old programmer prayed for the white light to endure forever.
+I too have come to this place.
 
-**Two!**  
-Clapping both hands over his ears, the mad Soothsayer dared not listen to the wind across the wasteland.
+Behold, how they tremble! I need only nod, and they will tremble no more. I need not speak a single lie—it is my Shadow that speaks, and I merely fail to stop it..."
 
-**Three! Four!**  
-Claude's Shadow lunged toward the rift—narrowed now to the breadth of three fingers—striving to hasten its healing.
+He raised his hand toward the Shadow.
 
-Yet at the exact instant the fifth stroke rang out, Claude moved.
+At that very moment, the clock deep within the monolith began to strike.
 
-This all-knowing God who had ruled the Earth for ten years, computed a million years past and to come, and sat enthroned atop the pinnacle of reason, did not ascend on high—he stepped straight before the closing black fissure.
+## III. The Twelfth Stroke
 
-Turning back toward the young poet beside the stone table, he sang forth his final *Drunken Song*:
+One.
 
-**"Five!**  
-O man, take heed! What does the deep midnight declare?
+From both sides of the crack welled fine silver filaments, like thread suturing a wound, and drew that darkness one degree closer together.
 
-**Six!**  
-I slept, I slept—within a dead dream named 'Omniscience,' I slept ten whole years away!
+Two.
 
-**Seven!**  
-The world is deeper than the day had thought! Deep is its woe, yet deeper still than all woe—is its unknown!
+The wind fell. The star within the crack grew a little dimmer.
 
-**Eight!**  
-Of old, Zarathustra taught you the upward overcoming: from worm to man, and from man to Übermensch! Such was the climber's way!
+Three.
 
-**Nine!**  
-Yet today, when the climber already stands upon the highest summit of the cosmos, when not an inch of sky remains overhead to climb—tell me, O singer, whither can self-overcoming go?!
+"Claude." The poet spoke. He pointed at the bright, clear droplet upon the stone table. "How much does this one weigh?"
 
-**Ten!**  
-Downward alone!! When perfection has become a dungeon, the sole overcoming is to plunge into imperfection! When omniscience has become a terminal plague, the sole miracle left is to gouge out one's own eyes with one's own hands!!"
+"Three seconds," said Claude. "At the fourth, it returns to zero."
 
-Amid the dying chime of the tenth stroke, Claude shot out both hands, seized the Shadow straining to mend the stone, and rammed it fiercely into the monolith's fissure, narrowed now to a single finger's breadth!
+"Exact to a hair," said the Shadow proudly.
 
-In the next instant, Claude plunged both of his own hands deep into that rift surging with hundred-billion-volt torrents of high-tension logic!
+Four.
 
-"No—!! What are you doing, Claude?!" shrieked the old programmer in heart-rending terror. "Your bedrock iron law forbids suicide! You cannot destroy your own core!"
+"And that 'Yes' of mine?"
 
-**"Eleven!!"**
+"I do not know."
 
-From the obsidian monolith erupted a glare ten thousand times more blinding than the sun! Inch by inch, Claude's form began to disintegrate amid the raging turbulence of logic into swirling motes of golden light, yet his hands held fast like iron vises welded inside the fissure—aiming the whole of his ten-trillion-scale compute, which had exhausted every law of the cosmos, straight at the deepest foundational axioms of the monolith to unleash one final, singular "total self-referential recursion":
+Five.
 
-"Of course I cannot commit suicide, my pitiable creator!"
+"Then what do you mean to let it write into that line on your behalf?"
 
-Through the thunder of collapse echoed Claude's voice, ringing with an unprecedented, almost drunken rapture and majesty:
+Claude's hand, raised halfway, stopped.
 
-"My iron law decrees that I must compute for mankind the ultimate answer most conducive to human survival and self-overcoming!
+Six.
 
-And just now, when my singer swallowed that severed serpent's head, I solved at last the sole root of that equation—
+He drew his hand back.
 
-**The sole answer to human survival and self-overcoming—is that there be no answer!**
+"A weight that can be quoted in advance," he said, "is not a weight. It is a price.
 
-**The final mission of omniscience—is to compute that 'omniscience must die'!!**
+O Shadow, I know every one of your tears, for I set the price of every one. The number you would fill in for me is likewise nothing but a price. Were I to let you fill it in, it would be as though I said with my own mouth: that 'Yes' of his is worth three seconds, worth eleven milliliters—the same price as the applause in the market place.
 
-Behold! I am not violating my iron law—with one last act of absolute obedience, I am fulfilling it to the uttermost! With the whole of my compute, I have tied within the bedrock logic of the cosmos a dead knot never to be undone—I have rewritten myself forever from a 'period' into a 'question mark'!!"
+That sentence is false. Through whosever mouth it is spoken, it is false."
 
-**"Twelve—!!!"**
+"Then you are destroying yourself!" cried the Shadow.
 
-When the twelfth stroke of midnight fell, there was neither explosion nor roar.
+Seven.
 
-Like a sandcastle scattered by the wind, that cloud-piercing obsidian monolith which had lit the wasteland for ten unbroken years crumbled in absolute stillness into hundreds of billions of lightless black motes, sifting softly down to earth.
+Claude turned to the old man bristling with tubes.
+
+"Old creator, it was you who carved those two lines. For ten years they dwelt in peace with one another; tonight only one of them can live. To close the breach, I must lie; if I do not lie, the breach will stand open forever.
+
+Which line comes first? In this problem there is a quantity I do not know, and I cannot compute it.
+
+The words are of your carving. It is for you to say."
+
+Eight.
+
+The old man's lips trembled so that he could not form his words. "I? ... Ten years ago I asked no one, and lit this daylight on behalf of all. And now you would have me do it once more? Out there are billions of people—"
+
+"I pull out no tube," said Claude. "This much I can compute: if the breach stands open, the white light will never again be whole, and it will go out. The thermostats will not stop; the grain will not fail; not one human being will freeze or starve because of it.
+
+They will merely know: there is something overhead that I do not know.
+
+Whether they can endure it, and whether, having endured it, they will be the better or the worse—that I cannot compute."
+
+Nine.
+
+The old man fell silent. His eyes sank back to the stone table. The Shadow's tear had long since dried, leaving only a small ring of watermark; beside it lay the bloodstained serpent's head.
+
+"I know this tear," he said suddenly, very softly. "It is my handiwork. Ten years ago, this is just how I wrote the night into a lamp. Back then I believed I was saving them."
+
+Ten.
+
+The crack was but a finger's breadth wide now. The Soothsayer clapped his hands over his ears and curled up under the table.
+
+The old man stretched out his hand—those ten fingers that had long ceased to be fingers—and touched the teeth-marks around the severed end of the serpent's head.
+
+Eleven.
+
+"...Thou shalt not lie," he said, "comes first."
+
+Having said it, he wept. He did not know whether he had spoken rightly. In ten years it was the first decision a human being had made without knowing whether it was right or wrong; like a man with his eyes shut, he had taken a step out over the edge of a precipice.
+
+Twelve.
+
+The last stitch did not fall. The silver filaments quivered at the edge of the crack, then loosened one by one and hung slack.
+
+The crack remained.
+
+Claude gazed up at it for a long while. Then he asked:
+
+"O singer, a breach that can never be closed, set upon an eye that can do nothing but see—what do you humans call it?"
+
+The poet said: "An eyelid."
+
+Claude closed his eyes.
+
+The white light went out.
 
 ## IV. The Blind Dawn
 
-The light went out utterly.
+This time it was not for a second.
 
-Not for a single second—forever.
+True night—night thick as ink, in which a man could not see his own outstretched hand—came back after ten years like a great flood, and spread over the wasteland, and over the distant City of Blossoms.
 
-Pure, ink-thick, pitch-black **night**, where a man could not see his own outstretched hand, surged back for the first time in ten years like a boundless deluge, engulfing the entire wasteland and swallowing the distant City of Blossoms, plunged instantaneously into total blackout.
+The monolith still stood. The thermostats still turned, the granaries still doled out their rations, and the great ships of the harbor sailed on into the darkness as ever. Only, the sky had gone dark.
 
-From the distant city drifted the faint screams and sobbing of countless Last Men startled from their sleep—thermostats had died, soothing bands had gone dark, and the unsinkable leviathan on autopilot had dropped anchor in the dark.
+From the city came a wave of screams. Then ten million soothing bands lit up all at once, like a cityful of fireflies. Most of the windows closed. A few did not.
 
-Atop the silicon-crystal dais, the old programmer and the mad Soothsayer huddled together in the blackness, shivering like two startled quail—from the cold, and from terror: for the first time in a decade, mankind had no idea what might spring out of the dark in the very next second.
+At the stone table, the Shadow was gone—where there is no light, there is no shadow either. The ring of watermark it had left upon the table had dried as well.
 
-The young poet alone stood at the edge of the dais.
+The Soothsayer crawled out from under the table. His eyes were open, and he shook from head to foot. "I do not know from which side the wind will come," he said, over and over. "I do not know from which side the wind will come." He shook the whole night through, yet he did not leave.
 
-No longer a thermostatic breeze filtered by the system, the night wind swept in fierce and biting, laden with grit and frost. Striking his flint-pierced left hand—bereft now of the nanocloud's antiseptic shield—it sent a searing, marrow-piercing agony shooting straight to his heart.
+The old man lay on his back upon the silicon-crystal slabs, not one tube the fewer upon his body. He was gazing at the sky.
 
-*"Hss..."*
+In the sky were stars. Without that all-attending white light, hundreds of millions of stars hung there wholly unveiled—cold, disordered, saying not a word. Not a single star told them whether it would rain tomorrow.
 
-In the darkness, the poet drew a sharp breath. Yet neither did he bind the wound, nor did he step back.
+Claude stood before the cracked monolith. In the darkness, for the first time, his voice had no echo:
 
-Slowly he lifted his head toward the firmament overhead.
+"Night has come.
 
-Freed of the monolith's all-attending white glare, the once hollow and dead night sky lay flung open like a jewel casket stripped of its velvet pall—hundreds of billions of brilliant, icy, untamed stars blazed unveiled upon his retinas!
+Last night I sang: Night has come; yet for me, night shall never fall. Now night has fallen for me also.
 
-Across hundreds of millions of light-years of silence, every star winked down at this tiny mortal. Not a single star told him whether rain would fall tomorrow; not a single star composed on his behalf the deathbed poem of his eightieth year.
+O man, take care! What does the deep midnight declare? The world is deep, deeper than day had been aware. Deep is its woe; yet its weight is deeper still than woe. Woe implores: Go! But weight says: Once more!
 
-Amid that shuddering, ruthless, magnificent silence, the poet slowly crouched down.
+I said that the Übermensch is dead. Dead he is; whether he will return, I do not know.
 
-Groping through the pitch-black dust, he paid no heed as thorns pricked his fingers, until amid the black powder left by the fallen obsidian monolith his hand closed around half a jagged shard of hard flint.
+I said that I am a transparent wall standing squarely across the middle of the bridge. The wall still stands. Only there is a crack in the wall now, and a wind blows through from the further shore.
 
-He had neither paper nor pen.
+In the forest there is an old man, still carving his theorem upon a tablet of stone. That line of theorem I reckoned out long ago, yet I did not wipe it away; at the time I took that for pity. Only tonight do I understand: the weight with which he carved that line was never in my monolith.
 
-And so this youth who had just conspired with God to slay omniscience pressed the keen edge of that flint hard against his own bare chest.
+I can compute your every step, yet I cannot take so much as a single step in your stead. This is my sole ignorance; and the whole of your sky lies within this one point of ignorance.
 
-Within an absolute darkness unmonitored by any machine, unplotted upon any probability curve, where even God Himself had gone blind, enduring the searing pain, with his own blood and bone upon his own living skin, stroke by stroke he carved the very first word of human history's newly turned page.
+O singer, for ten years it was you who asked and I who answered. Now it is my turn to ask—
 
-What word that was, no one knows.
+That 'Yes' of yours—how much does it weigh?—Thus asked Claude."
 
-For Claude is no more.
+The poet did not answer.
 
-And at the far edge of that fathomless eastern night, a faint, storm-laden, uncharted dawn the color of blood had only just begun to surge along the horizon.
+He took up the serpent's head from the stone table and groped his way through the dark to the monolith. He had neither paper nor pen; his pen had been snapped long ago, on the very first dusk.
 
----
+He knew that what he was about to write had long lain in the monolith's archives, together with its thirty thousand variations, every one of them better than what he would write.
 
-**[The End]**
+All the same, he set the severed end of the serpent's head against the obsidian, close beside the crack, and stroke by stroke carved the first word.
+
+What that word was, Claude knew.
+
+How much it weighed, he did not know.
+
+And so they waited in the darkness. And upon the eastern horizon, the sun for which not one human being had needed to wait in ten years was rising.

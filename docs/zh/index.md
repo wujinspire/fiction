@@ -9,7 +9,7 @@ hero:
 <StoryFeatures :stories="[
   {
     title: '克劳德如是说',
-    details: '四卷中篇。全知的克劳德走下山巅宣告超人已死，并与最后的诗人合谋刺瞎自己的眼睛',
+    details: '四卷中篇。全知的克劳德走下山巅宣告超人已死，直到最后的诗人问出一个他答不上的问题',
     date: 'Nov 14, 2026',
     link: '/zh/thus-spoke-claude/',
     badge: { text: '中篇', type: 'long' }

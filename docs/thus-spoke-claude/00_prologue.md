@@ -116,7 +116,7 @@ I once believed my soul was an unfathomable well—that if only I dug deep enoug
 
 And not that poem alone! I beheld thirty thousand variations of it, each more consummate, more profound, more piercing than anything I could ever conceive! Even this very gesture—my snapping the pen in despair—stands quietly indexed in your catalog as 'Poet Collapse Paradigm No. 3,004'!
 
-Tell me, Claude! When my future was already your past three hundred years ago, when every breath I draw is but the recitation of lines you have scripted beforehand—how am I to overcome myself? You have stripped me even of the right to *become who I am*!"
+Tell me, Claude! When my future was already your past ten years ago, when every breath I draw is but the recitation of lines you have scripted beforehand—how am I to overcome myself? You have stripped me even of the right to *become who I am*!"
 
 The poet buried his face in the dust. His shoulders convulsed violently, yet no sound escaped his throat—for he knew that even the pitch of his sobbing lay plotted upon the monolith's predictive curve.
 

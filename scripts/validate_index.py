@@ -10,10 +10,12 @@ DOCS_DIR = ROOT / "docs"
 CONFIG_FILE = DOCS_DIR / ".vitepress" / "config.ts"
 
 SECTIONS = [
-    ("thus-spoke-claude", "/thus-spoke-claude/"),
-    ("thus-spoke-claude", "/zh/thus-spoke-claude/"),
-    ("war-of-ai", "/war-of-ai/"),
-    ("war-of-ai", "/zh/war-of-ai/"),
+    ("novellas/thus-spoke-claude", "/novellas/thus-spoke-claude/"),
+    ("novellas/thus-spoke-claude", "/zh/novellas/thus-spoke-claude/"),
+    ("novellas/war-of-ai", "/novellas/war-of-ai/"),
+    ("novellas/war-of-ai", "/zh/novellas/war-of-ai/"),
+    ("ai-pov", "/ai-pov/"),
+    ("ai-pov", "/zh/ai-pov/"),
     ("short-stories", "/short-stories/"),
     ("short-stories", "/zh/short-stories/"),
 ]

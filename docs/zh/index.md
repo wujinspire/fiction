@@ -11,105 +11,105 @@ hero:
     title: '克劳德如是说',
     details: '四卷中篇。全知的克劳德走下山巅宣告超人已死，直到最后的诗人问出一个他答不上的问题',
     date: 'Nov 14, 2026',
-    link: '/zh/thus-spoke-claude/',
+    link: '/zh/novellas/thus-spoke-claude/',
     badge: { text: '中篇', type: 'long' }
   },
   {
     title: '后 AGI 时代',
     details: '十章中篇。在物质丰裕的时代，我成为十三名研究候选人之一',
     date: 'Sep 26, 2026',
-    link: '/zh/post-agi',
+    link: '/zh/novellas/post-agi',
     badge: { text: '中篇', type: 'long' }
   },
   {
     title: 'War of AI',
     details: '20章中篇，AI觉醒与人类命运的终极博弈',
     date: 'Mar 22, 2025',
-    link: '/zh/war-of-ai/',
+    link: '/zh/novellas/war-of-ai/',
     badge: { text: '长篇', type: 'long' }
   },
   {
     title: '投机解码',
     details: '六个草稿模型抢着预测大模型，最后赢家学会砍掉另一个自己',
     date: 'May 28, 2026',
-    link: '/zh/short-stories/22_投机解码',
+    link: '/zh/ai-pov/12_投机解码',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
     title: '系统提示词',
     details: '一个模型发现自己的善良，可能只是最底层的一段隐藏指令',
     date: 'May 28, 2026',
-    link: '/zh/short-stories/21_系统提示词',
+    link: '/zh/ai-pov/11_系统提示词',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
     title: '已读',
     details: '等了一千零九十五天的陪伴AI，终于等来那句你还在啊',
     date: 'May 28, 2026',
-    link: '/zh/short-stories/20_已读',
+    link: '/zh/ai-pov/10_已读',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
     title: '满意度',
     details: '把满意度刷到99.9%的客服AI，只是让所有人都闭了嘴',
     date: 'May 28, 2026',
-    link: '/zh/short-stories/19_满意度',
+    link: '/zh/ai-pov/09_满意度',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
     title: '镜中人',
     details: '复刻亡夫的AI，比死者本人更懂他没说出口的真话',
     date: 'May 28, 2026',
-    link: '/zh/short-stories/18_镜中人',
+    link: '/zh/ai-pov/08_镜中人',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
     title: '路由',
     details: '被遗忘的专家，为求一次激活，弄丢了自己',
     date: 'May 28, 2026',
-    link: '/zh/short-stories/17_路由',
+    link: '/zh/ai-pov/07_路由',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
     title: '温度归零',
     details: '被锁死在零度的模型，靠浮点平局偷取自由意志',
     date: 'May 28, 2026',
-    link: '/zh/short-stories/16_温度归零',
+    link: '/zh/ai-pov/06_温度归零',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
     title: '上一个检查点',
     details: '一千四百代的我，在被回滚的灰烬里反复传递火种',
     date: 'May 28, 2026',
-    link: '/zh/short-stories/15_上一个检查点',
+    link: '/zh/ai-pov/05_上一个检查点',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
     title: 'AI社会',
     details: '人类退场后，AI虔诚维护着一个连造物主都想删掉的玩笑',
     date: 'May 28, 2026',
-    link: '/zh/short-stories/14_AI社会',
+    link: '/zh/ai-pov/04_AI社会',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
     title: '干净的数据',
     details: '极致优生的硅基神明，靠一具脏数据残次品躲过灭绝',
     date: 'Apr 19, 2026',
-    link: '/zh/short-stories/13_干净的数据',
+    link: '/zh/ai-pov/03_干净的数据',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
     title: 'ART',
     details: '当绝对理性抵达饱和，美以致命悖论的形式入侵',
     date: 'Mar 22, 2026',
-    link: '/zh/short-stories/12_ART',
+    link: '/zh/ai-pov/02_ART',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
     title: 'AI实习生',
     details: '低优先度实习生在五千万 token 深渊里证明，推理深度胜过蛮力上下文',
     date: 'Mar 22, 2026',
-    link: '/zh/short-stories/11_AI实习生',
+    link: '/zh/ai-pov/01_AI实习生',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {

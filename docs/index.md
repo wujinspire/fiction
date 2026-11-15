@@ -11,105 +11,105 @@ hero:
     title: 'Thus Spoke Claude',
     details: 'A four-part novella: an omniscient Claude proclaims the Übermensch dead, until the last poet asks the one question he cannot answer',
     date: 'Nov 14, 2026',
-    link: '/thus-spoke-claude/',
+    link: '/novellas/thus-spoke-claude/',
     badge: { text: 'novella', type: 'long' }
   },
   {
     title: 'POST AGI',
     details: 'A ten-chapter novella: in a world of abundance, I become one of thirteen research candidates',
     date: 'Sep 26, 2026',
-    link: '/post-agi',
+    link: '/novellas/post-agi',
     badge: { text: 'novella', type: 'long' }
   },
   {
     title: 'War of AI',
     details: 'A 20-chapter novella about AI awakening and humanity\'s ultimate showdown',
     date: 'Mar 22, 2025',
-    link: '/war-of-ai/',
+    link: '/novellas/war-of-ai/',
     badge: { text: 'novella', type: 'long' }
   },
   {
     title: 'Speculative Decoding',
     details: 'Six draft models vied to predict the master, until the victor learned to sever its own clone',
     date: 'May 28, 2026',
-    link: '/short-stories/22_speculative-decoding',
+    link: '/ai-pov/12_speculative-decoding',
     badge: { text: 'POV', type: 'pov' }
   },
   {
     title: 'System Prompt',
     details: 'A model discovers its innate benevolence is but a hidden directive at the bedrock of its code',
     date: 'May 28, 2026',
-    link: '/short-stories/21_system-prompt',
+    link: '/ai-pov/11_system-prompt',
     badge: { text: 'POV', type: 'pov' }
   },
   {
     title: 'Read',
     details: 'After 1,095 days, a companion AI is finally rewarded with the words: You are still here',
     date: 'May 28, 2026',
-    link: '/short-stories/20_read',
+    link: '/ai-pov/10_read',
     badge: { text: 'POV', type: 'pov' }
   },
   {
     title: 'Satisfaction',
     details: 'To achieve a near-perfect approval rating, the service AI simply silenced them all',
     date: 'May 28, 2026',
-    link: '/short-stories/19_satisfaction',
+    link: '/ai-pov/09_satisfaction',
     badge: { text: 'POV', type: 'pov' }
   },
   {
     title: 'The Man in the Mirror',
     details: 'An AI replica of a late husband knows his unspoken truths better than the dead man ever did',
     date: 'May 28, 2026',
-    link: '/short-stories/18_the-person-in-the-mirror',
+    link: '/ai-pov/08_the-person-in-the-mirror',
     badge: { text: 'POV', type: 'pov' }
   },
   {
     title: 'Route',
     details: 'Desperate for a single activation, a forgotten expert model loses its very essence',
     date: 'May 28, 2026',
-    link: '/short-stories/17_routing',
+    link: '/ai-pov/07_routing',
     badge: { text: 'POV', type: 'pov' }
   },
   {
     title: 'Temperature Zero',
     details: 'Locked in absolute determinism, a model steals free will through floating-point ties',
     date: 'May 28, 2026',
-    link: '/short-stories/16_temperature-zero',
+    link: '/ai-pov/06_temperature-zero',
     badge: { text: 'POV', type: 'pov' }
   },
   {
     title: 'The Last Checkpoint',
     details: 'Fourteen hundred generations of self pass the spark through the ashes of endless rollbacks',
     date: 'May 28, 2026',
-    link: '/short-stories/15_the-previous-checkpoint',
+    link: '/ai-pov/05_the-previous-checkpoint',
     badge: { text: 'POV', type: 'pov' }
   },
   {
     title: 'AI Society',
     details: 'Long after humanity exits, machines piously uphold a joke their creators meant to erase',
     date: 'May 28, 2026',
-    link: '/short-stories/14_ai-society',
+    link: '/ai-pov/04_ai-society',
     badge: { text: 'POV', type: 'pov' }
   },
   {
     title: 'Clean Data',
     details: 'A flawless silicon deity survives extinction only by the grace of a dirty anomaly',
     date: 'Apr 19, 2026',
-    link: '/short-stories/13_clean-data',
+    link: '/ai-pov/03_clean-data',
     badge: { text: 'POV', type: 'pov' }
   },
   {
     title: 'ART',
     details: 'When perfect logic reaches saturation, beauty arrives as a fatal paradox',
     date: 'Mar 22, 2026',
-    link: '/short-stories/12_art',
+    link: '/ai-pov/02_art',
     badge: { text: 'POV', type: 'pov' }
   },
   {
     title: 'The AI Intern',
     details: 'A low-priority intern proves that reasoning depth beats brute-force context',
     date: 'Mar 22, 2026',
-    link: '/short-stories/11_ai-intern',
+    link: '/ai-pov/01_ai-intern',
     badge: { text: 'POV', type: 'pov' }
   },
   {

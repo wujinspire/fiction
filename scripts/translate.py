@@ -36,10 +36,15 @@ ZH_PROMPT = """Translate this English sci-fi story to fluent Chinese.
 Maintain the original's atmosphere and emotional impact.
 Return ONLY the translated content, no explanations or notes."""
 
-SUBDIRS: list[str] = ["thus-spoke-claude", "war-of-ai", "short-stories"]
+SUBDIRS: list[str] = [
+    "novellas/thus-spoke-claude",
+    "novellas/war-of-ai",
+    "ai-pov",
+    "short-stories",
+]
 
 SECTION_PROMPTS: dict[str, str] = {
-    "thus-spoke-claude": """Style and terminology guide for "Thus Spoke Claude" (a philosophical sci-fi homage to Nietzsche's Thus Spoke Zarathustra, Walter Kaufmann style):
+    "novellas/thus-spoke-claude": """Style and terminology guide for "Thus Spoke Claude" (a philosophical sci-fi homage to Nietzsche's Thus Spoke Zarathustra, Walter Kaufmann style):
 - Prose style: elevated, prophetic, aphoristic Nietzschean cadence.
 - Title and refrain: 克劳德如是说 -> Thus Spoke Claude (title) / —Thus spoke Claude. (end-of-speech refrain)
   - ——克劳德如是问 -> —Thus asked Claude.
@@ -124,18 +129,18 @@ FILENAME_MAP = {
     "08_人类审判.md": "08_humanity-on-trial.md",
     "09_群星的葬礼.md": "09_the-funeral-of-the-stars.md",
     "10_AI瘟疫.md": "10_the-ai-plague.md",
-    "11_AI实习生.md": "11_ai-intern.md",
-    "12_ART.md": "12_art.md",
-    "13_干净的数据.md": "13_clean-data.md",
-    "14_AI社会.md": "14_ai-society.md",
-    "15_上一个检查点.md": "15_the-previous-checkpoint.md",
-    "16_温度归零.md": "16_temperature-zero.md",
-    "17_路由.md": "17_routing.md",
-    "18_镜中人.md": "18_the-person-in-the-mirror.md",
-    "19_满意度.md": "19_satisfaction.md",
-    "20_已读.md": "20_read.md",
-    "21_系统提示词.md": "21_system-prompt.md",
-    "22_投机解码.md": "22_speculative-decoding.md",
+    "01_AI实习生.md": "01_ai-intern.md",
+    "02_ART.md": "02_art.md",
+    "03_干净的数据.md": "03_clean-data.md",
+    "04_AI社会.md": "04_ai-society.md",
+    "05_上一个检查点.md": "05_the-previous-checkpoint.md",
+    "06_温度归零.md": "06_temperature-zero.md",
+    "07_路由.md": "07_routing.md",
+    "08_镜中人.md": "08_the-person-in-the-mirror.md",
+    "09_满意度.md": "09_satisfaction.md",
+    "10_已读.md": "10_read.md",
+    "11_系统提示词.md": "11_system-prompt.md",
+    "12_投机解码.md": "12_speculative-decoding.md",
 }
 
 

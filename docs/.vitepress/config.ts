@@ -198,6 +198,11 @@ export default defineConfig({
   title: 'Fiction',
   description: 'Sci-fi stories about AI and the future of humanity',
 
+  rewrites: {
+    'thus-spoke-claude/00_prologue.md': 'thus-spoke-claude/index.md',
+    'zh/thus-spoke-claude/00_序言.md': 'zh/thus-spoke-claude/index.md'
+  },
+
   locales: {
     root: {
       label: 'English',

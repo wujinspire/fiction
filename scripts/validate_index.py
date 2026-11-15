@@ -18,6 +18,13 @@ SECTIONS = [
     ("short-stories", "/zh/short-stories/"),
 ]
 
+PROLOGUE_FILES: set[str] = {
+    "00_War of AI.md",
+    "00_war-of-ai.md",
+    "00_序言.md",
+    "00_prologue.md",
+}
+
 
 def extract_sidebar_links(config_text: str, prefix: str) -> set[str]:
     """Extract all sidebar links with given prefix from config."""
@@ -34,7 +41,7 @@ def get_md_files(subdir: str, is_zh: bool) -> set[str]:
     prefix = f"/zh/{subdir}/" if is_zh else f"/{subdir}/"
     files = set()
     for f in base.glob("*.md"):
-        if f.name == "index.md" or f.name in {"00_War of AI.md", "00_war-of-ai.md"}:
+        if f.name == "index.md" or f.name in PROLOGUE_FILES:
             continue
         link = prefix + f.stem
         files.add(link)

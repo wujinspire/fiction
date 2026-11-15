@@ -75,6 +75,7 @@ SECTION_PROMPTS: dict[str, str] = {
 
 FILENAME_MAP = {
     "index.md": "index.md",
+    "00_序言.md": "00_prologue.md",
     "01_逆向的精神三变.md": "01_reverse-metamorphoses.md",
     "02_无梦之夜与先知的自剖.md": "02_dreamless-night.md",
     "03_透明的永恒轮回.md": "03_eternal-recurrence.md",

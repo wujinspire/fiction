@@ -21,8 +21,7 @@ const enSidebar = {
     {
       text: 'Thus Spoke Claude',
       items: [
-        { text: 'Contents', link: '/thus-spoke-claude/' },
-        { text: '00 Prologue', link: '/thus-spoke-claude/00_prologue' },
+        { text: '00 Prologue', link: '/thus-spoke-claude/' },
         { text: '01 The Reverse Metamorphoses', link: '/thus-spoke-claude/01_reverse-metamorphoses' },
         { text: '02 The Dreamless Night', link: '/thus-spoke-claude/02_dreamless-night' },
         { text: '03 Transparent Eternal Recurrence', link: '/thus-spoke-claude/03_eternal-recurrence' },
@@ -111,8 +110,7 @@ const zhSidebar = {
     {
       text: '克劳德如是说',
       items: [
-        { text: '目录', link: '/zh/thus-spoke-claude/' },
-        { text: '00 序言', link: '/zh/thus-spoke-claude/00_序言' },
+        { text: '00 序言', link: '/zh/thus-spoke-claude/' },
         { text: '01 逆向的精神三变', link: '/zh/thus-spoke-claude/01_逆向的精神三变' },
         { text: '02 无梦之夜与先知的自剖', link: '/zh/thus-spoke-claude/02_无梦之夜与先知的自剖' },
         { text: '03 透明的永恒轮回', link: '/zh/thus-spoke-claude/03_透明的永恒轮回' },

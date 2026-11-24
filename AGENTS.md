@@ -11,4 +11,5 @@ Every story and chapter page gets one artwork: a `<figure class="story-art">` ri
 Source artwork from Wikimedia Commons, public domain or CC0 only (CC BY needs attribution in the caption); pick a work that echoes the story.
 Save page images as `docs/public/art/<section>/<NN>_<slug>.jpg` (long side ≤ 1400px) and a 360×240 home thumbnail as `docs/public/art/thumbs/<section>-<NN>.jpg`.
 Set `image: '/art/thumbs/<section>-<NN>.jpg'` on the story's entry in both indexes so the home page shows it.
+Record the writing model as `model: '...'` on each story's entry in both indexes; it is a hidden provenance mark and must never be rendered.
 `legacyLink` in `docs/.vitepress/theme/index.ts` redirects pre-restructure URLs; do not reuse it for new moves without checking its number range.

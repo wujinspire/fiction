@@ -6,6 +6,7 @@ interface Story {
   title: string
   details: string
   date: string
+  model?: string
   link: string
   image?: string
   badge?: Badge

@@ -18,29 +18,38 @@ interface Badge {
 }
 
 type Kind = 'long' | 'pov' | 'short'
+type SectionKind = 'new' | Kind
 
 interface Section {
-  kind: Kind
+  kind: SectionKind
   title: string
   note: string
   stories: Story[]
 }
 
-const LABELS: Record<string, Record<Kind, [string, string]>> = {
+const LABELS: Record<string, Record<SectionKind, [string, string]>> = {
   en: {
+    new: ['New', 'Recently published'],
     long: ['Novellas', 'Longer works, told in chapters'],
     pov: ['AI POV', 'Point of view: first-person stories narrated by the AI itself'],
     short: ['Short Stories', 'Stories to read in one sitting']
   },
   zh: {
+    new: ['新作', '最新发布的故事'],
     long: ['中长篇', '分章连载的长故事'],
     pov: ['AI 自述', '第一人称视角：由 AI 自己讲述的故事'],
     short: ['短篇', '一口气读完的故事']
   }
 }
 
+const KIND_KICKER: Record<string, Record<Kind, string>> = {
+  en: { long: 'Novella', pov: 'AI POV', short: 'Short Story' },
+  zh: { long: '中长篇', pov: 'AI 自述', short: '短篇' }
+}
+
 const props = defineProps<{ stories: Story[] }>()
 const { lang } = useData()
+const locale = computed<'zh' | 'en'>(() => (lang.value.startsWith('zh') ? 'zh' : 'en'))
 
 function badgesOf(story: Story): Badge[] {
   return story.badges ?? (story.badge ? [story.badge] : [])
@@ -60,14 +69,38 @@ function numberOf(story: Story): string | undefined {
   return story.link.match(/\/(\d+)_/)?.[1]
 }
 
+function kickerOf(story: Story, sectionKind: SectionKind): string | undefined {
+  if (sectionKind === 'new') {
+    const base: string = badgeText(story, 'long') ?? KIND_KICKER[locale.value][kindOf(story)]
+    const num: string | undefined = numberOf(story)
+    return num ? `${base} · ${num}` : base
+  }
+  return badgeText(story, 'long') ?? numberOf(story)
+}
+
+const summary = computed<string>(() => {
+  const counts: Record<Kind, number> = { long: 0, pov: 0, short: 0 }
+  for (const story of props.stories) counts[kindOf(story)]++
+  const total: number = props.stories.length
+  if (locale.value === 'zh') {
+    return `总计 ${total} 篇 · 中长篇 ${counts.long} 部 · AI 自述 ${counts.pov} 篇 · 短篇 ${counts.short} 篇`
+  }
+  return `${total} works in total · ${counts.long} novellas · ${counts.pov} AI POV · ${counts.short} short stories`
+})
+
 const sections = computed<Section[]>(() => {
-  const labels: Record<Kind, [string, string]> = LABELS[lang.value.startsWith('zh') ? 'zh' : 'en']
-  return (['long', 'pov', 'short'] as Kind[])
+  const labels: Record<SectionKind, [string, string]> = LABELS[locale.value]
+  const storiesFor = (kind: SectionKind): Story[] =>
+    kind === 'new'
+      ? props.stories.filter((story) => Boolean(badgeText(story, 'new')))
+      : props.stories.filter((story) => kindOf(story) === kind)
+
+  return (['new', 'long', 'pov', 'short'] as SectionKind[])
     .map((kind) => ({
       kind,
       title: labels[kind][0],
       note: labels[kind][1],
-      stories: props.stories.filter((story) => kindOf(story) === kind)
+      stories: storiesFor(kind)
     }))
     .filter((section) => section.stories.length > 0)
 })
@@ -75,19 +108,27 @@ const sections = computed<Section[]>(() => {
 
 <template>
   <div class="story-features">
+    <p class="catalog-summary">{{ summary }}</p>
     <section v-for="section in sections" :key="section.kind" :class="['section', section.kind]">
       <header class="section-head">
         <h2>{{ section.title }}</h2>
-        <span class="count">{{ section.stories.length }}</span>
         <span class="note">{{ section.note }}</span>
       </header>
       <div class="stories">
         <a v-for="story in section.stories" :key="story.link" :href="story.link" class="story">
-          <img v-if="story.image" class="art" :src="story.image" alt="" loading="lazy" />
-          <span class="kicker">{{ badgeText(story, 'long') ?? numberOf(story) }}</span>
+          <img
+            v-if="story.image && section.kind === 'long'"
+            class="art"
+            :src="story.image"
+            alt=""
+            loading="lazy"
+          />
+          <span class="kicker">{{ kickerOf(story, section.kind) }}</span>
           <h3>
             {{ story.title }}
-            <span v-if="badgeText(story, 'new')" class="new">{{ badgeText(story, 'new') }}</span>
+            <span v-if="section.kind !== 'new' && badgeText(story, 'new')" class="new-pill">
+              {{ badgeText(story, 'new') }}
+            </span>
           </h3>
           <p class="details">{{ story.details }}</p>
           <span class="date">{{ story.date }}</span>
@@ -100,6 +141,16 @@ const sections = computed<Section[]>(() => {
 <style scoped>
 .story-features {
   padding-bottom: 48px;
+}
+
+.catalog-summary {
+  margin: 0 0 40px;
+  border-bottom: 1px solid var(--vp-c-divider);
+  padding-bottom: 14px;
+  font-size: 13px;
+  line-height: 20px;
+  font-variant-numeric: tabular-nums;
+  color: var(--vp-c-text-3);
 }
 
 .section + .section {
@@ -123,12 +174,6 @@ const sections = computed<Section[]>(() => {
   font-weight: 700;
   line-height: 32px;
   letter-spacing: 0;
-}
-
-.section-head .count {
-  font-size: 13px;
-  font-variant-numeric: tabular-nums;
-  color: var(--vp-c-brand-1);
 }
 
 .section-head .note {
@@ -156,7 +201,7 @@ const sections = computed<Section[]>(() => {
   color: var(--vp-c-brand-1);
 }
 
-.new {
+.new-pill {
   margin-left: 6px;
   border-radius: 3px;
   padding: 2px 6px;
@@ -181,6 +226,47 @@ const sections = computed<Section[]>(() => {
   color: var(--vp-c-text-3);
 }
 
+/* Featured new: top-level highlight card(s) */
+.new .stories {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.new .story {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: baseline;
+  align-content: start;
+  border: 1px solid var(--vp-c-divider);
+  border-left: 3px solid var(--vp-c-brand-1);
+  border-radius: 6px;
+  padding: 24px 28px;
+  background: var(--vp-c-bg-elv);
+  transition:
+    border-color 0.2s,
+    transform 0.2s,
+    box-shadow 0.2s;
+}
+
+.new .story h3 {
+  grid-column: 1 / -1;
+  margin-top: 8px;
+  font-size: 24px;
+  line-height: 34px;
+}
+
+.new .details {
+  grid-column: 1 / -1;
+  margin-top: 8px;
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.new .date {
+  grid-area: 1 / 2;
+}
+
 /* Novellas: large cards */
 .long .stories {
   display: grid;
@@ -201,6 +287,7 @@ const sections = computed<Section[]>(() => {
     box-shadow 0.2s;
 }
 
+.new .story:hover,
 .long .story:hover {
   border-color: var(--vp-c-brand-1);
   transform: translateY(-2px);
@@ -216,6 +303,7 @@ const sections = computed<Section[]>(() => {
   border-radius: 5px 5px 0 0;
 }
 
+.new .kicker,
 .long .kicker {
   font-weight: 600;
   letter-spacing: 0.08em;

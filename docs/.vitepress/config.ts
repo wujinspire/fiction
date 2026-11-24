@@ -290,7 +290,6 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'V0 · Mar 22, 2025',
       copyright: '© <a href="https://jinspire.dev" target="_blank">Jinspire</a>'
     }
   }

@@ -1,5 +1,7 @@
 import type { EnhanceAppContext, SiteData } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import { h } from 'vue'
+import LangSwitch from './LangSwitch.vue'
 import StoryFeatures from './StoryFeatures.vue'
 import './custom.css'
 
@@ -47,6 +49,7 @@ function legacyLink(path: string, pages: Set<string>): string | undefined {
 
 export default {
   extends: DefaultTheme,
+  Layout: () => h(DefaultTheme.Layout, null, { 'nav-bar-content-after': () => h(LangSwitch) }),
   enhanceApp({ app, router, siteData }: EnhanceAppContext) {
     app.component('StoryFeatures', StoryFeatures)
 

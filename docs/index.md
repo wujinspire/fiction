@@ -128,6 +128,14 @@ hero:
     badge: { text: 'POV', type: 'pov' }
   },
   {
+    title: 'The Claude Hypothesis',
+    details: 'A high schooler\'s lazy topological shortcut leads a frontier AI to the very edge of mathematical axioms',
+    date: 'Nov 24, 2026',
+    link: '/short-stories/12_the-claude-hypothesis',
+    image: '/art/thumbs/short-stories-12.jpg',
+    badge: { text: 'new', type: 'new' }
+  },
+  {
     title: 'The Art Gap',
     details: 'A ballpoint sketch on a café napkin feels sacred, until I glimpse the optical lens beneath the cap',
     date: 'Nov 24, 2026',

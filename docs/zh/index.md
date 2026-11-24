@@ -128,6 +128,14 @@ hero:
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
+    title: '克劳德猜想',
+    details: '高二少年一道偷懒折歪的随堂错题，带着超级AI走到了现有数学公理的最边缘',
+    date: 'Nov 24, 2026',
+    link: '/zh/short-stories/12_克劳德猜想',
+    image: '/art/thumbs/short-stories-12.jpg',
+    badge: { text: '新', type: 'new' }
+  },
+  {
     title: '艺术的鸿沟',
     details: '餐巾纸上的圆珠笔速写原本神圣无比，直到我看清鸭舌帽下那颗环形镜头',
     date: 'Nov 24, 2026',

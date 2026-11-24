@@ -140,7 +140,8 @@ const enSidebar = {
         { text: '08 Humanity on Trial', link: '/short-stories/08_humanity-on-trial' },
         { text: '09 The Funeral of the Stars', link: '/short-stories/09_the-funeral-of-the-stars' },
         { text: '10 The AI Plague', link: '/short-stories/10_the-ai-plague' },
-        { text: '11 The Art Gap', link: '/short-stories/11_the-art-gap' }
+        { text: '11 The Art Gap', link: '/short-stories/11_the-art-gap' },
+        { text: '12 The Claude Hypothesis', link: '/short-stories/12_the-claude-hypothesis' }
       ]
     }
   ]
@@ -243,7 +244,8 @@ const zhSidebar = {
         { text: '08 人类审判', link: '/zh/short-stories/08_人类审判' },
         { text: '09 群星的葬礼', link: '/zh/short-stories/09_群星的葬礼' },
         { text: '10 AI瘟疫', link: '/zh/short-stories/10_AI瘟疫' },
-        { text: '11 艺术的鸿沟', link: '/zh/short-stories/11_艺术的鸿沟' }
+        { text: '11 艺术的鸿沟', link: '/zh/short-stories/11_艺术的鸿沟' },
+        { text: '12 克劳德猜想', link: '/zh/short-stories/12_克劳德猜想' }
       ]
     }
   ]
@@ -252,6 +254,10 @@ const zhSidebar = {
 export default defineConfig({
   title: 'Fiction',
   description: 'Sci-fi stories about AI and the future of humanity',
+
+  markdown: {
+    math: true
+  },
 
   rewrites: {
     'novellas/thus-spoke-claude/00_prologue.md': 'novellas/thus-spoke-claude/index.md',

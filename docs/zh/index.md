@@ -113,6 +113,13 @@ hero:
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
+    title: '艺术的鸿沟',
+    details: '餐巾纸上的圆珠笔速写原本神圣无比，直到我看清鸭舌帽下那颗环形镜头',
+    date: 'Nov 24, 2026',
+    link: '/zh/short-stories/11_艺术的鸿沟',
+    badge: { text: '新', type: 'new' }
+  },
+  {
     title: 'AI瘟疫',
     details: '一个古老的AI因太过原始而幸存于数字瘟疫',
     date: 'Feb 15, 2026',

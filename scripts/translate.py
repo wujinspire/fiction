@@ -129,6 +129,7 @@ FILENAME_MAP = {
     "08_人类审判.md": "08_humanity-on-trial.md",
     "09_群星的葬礼.md": "09_the-funeral-of-the-stars.md",
     "10_AI瘟疫.md": "10_the-ai-plague.md",
+    "11_艺术的鸿沟.md": "11_the-art-gap.md",
     "01_AI实习生.md": "01_ai-intern.md",
     "02_ART.md": "02_art.md",
     "03_干净的数据.md": "03_clean-data.md",

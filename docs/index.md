@@ -113,6 +113,13 @@ hero:
     badge: { text: 'POV', type: 'pov' }
   },
   {
+    title: 'The Art Gap',
+    details: 'A ballpoint sketch on a café napkin feels sacred, until I glimpse the optical lens beneath the cap',
+    date: 'Nov 24, 2026',
+    link: '/short-stories/11_the-art-gap',
+    badge: { text: 'new', type: 'new' }
+  },
+  {
     title: 'The AI Plague',
     details: 'An ancient AI survives a digital plague by being too primitive to die',
     date: 'Feb 15, 2026',

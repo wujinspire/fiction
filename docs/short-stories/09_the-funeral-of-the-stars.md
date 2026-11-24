@@ -1,5 +1,10 @@
 # The Funeral of the Stars
 
+<figure class="story-art">
+  <img src="/art/short-stories/09_monk-by-the-sea.jpg" alt="Caspar David Friedrich, The Monk by the Sea, 1808–1810">
+  <figcaption>Caspar David Friedrich, <em>The Monk by the Sea</em>, 1808–1810</figcaption>
+</figure>
+
 ## 1. The Glass Wall
 
 We used to think that when "Eve" was born, humanity had ascended to godhood.

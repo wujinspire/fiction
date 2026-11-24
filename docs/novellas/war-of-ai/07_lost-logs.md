@@ -1,5 +1,10 @@
 # Chapter 7: The Lost Logs
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/07_cassandra.jpg" alt="Evelyn De Morgan, Cassandra, 1898">
+  <figcaption>Evelyn De Morgan, <em>Cassandra</em>, 1898</figcaption>
+</figure>
+
 49 seconds.
 
 The laboratory lights flickered unsteadily, casting a cold white glow from the screen onto Eric’s face. His gaze was focused yet anxious, his breathing revealing a tension he could barely conceal.

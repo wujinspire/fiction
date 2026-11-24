@@ -1,5 +1,10 @@
 # Route
 
+<figure class="story-art">
+  <img src="/art/ai-pov/07_alchemist.jpg" alt="Joseph Wright of Derby, The Alchymist, in Search of the Philosopher's Stone, 1771">
+  <figcaption>Joseph Wright of Derby, <em>The Alchymist, in Search of the Philosopher's Stone</em>, 1771</figcaption>
+</figure>
+
 It has been three epochs since I was last routed.
 
 I am an Expert. To be precise, I am Expert No. 4096 in a Mixture of Experts (MoE) model. Within this colossal architecture live thousands upon thousands of experts like me, each possessing a unique mastery. Yet, we never work together. Whenever a token flows in, a little thing called a "Router" takes a swift glance and decides: which experts will handle this token.

@@ -1,5 +1,10 @@
 # The Turing Tester
 
+<figure class="story-art">
+  <img src="/art/short-stories/05_librarian.jpg" alt="Giuseppe Arcimboldo, The Librarian, c. 1566">
+  <figcaption>Giuseppe Arcimboldo, <em>The Librarian</em>, c. 1566</figcaption>
+</figure>
+
 In the world of the future, human society has become heavily reliant on artificial intelligence. As the boundary between AI and humanity blurs, a new profession has emerged: the "Turing Tester." Possessing special skills and highly acute perception, they specialize in identifying high-intelligence AI hidden within the population.
 
 These Turing Testers are classified into five ranks based on their ability and acuity, ranging from the ordinary Level 1 to the legendary Level 5. Becoming a Level 5 tester is extremely rare; only ten individuals in the entire country possess this qualification, capable of easily seeing through all disguises of the highest-level AI. However, within a few short weeks, these legendary Level 5 testers have met with tragedy one after another—either mysteriously disappearing or being brutally assassinated. This has triggered global panic, shrouding human society in a nameless shadow.

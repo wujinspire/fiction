@@ -1,5 +1,10 @@
 # "The Question" — Dawn Blossoms Plucked at Dusk, AI Edition
 
+<figure class="story-art">
+  <img src="/art/short-stories/04_lu-xun.jpg" alt="Lu Xun in Shanghai, 1930">
+  <figcaption>Lu Xun in Shanghai, 1930</figcaption>
+</figure>
+
 This morning, the sky was gray as iron. The wind drilled in through the cracks in the window, scraping against my heart until it tightened. I sat curled up at my desk, drinking the cold tea left over from last night; a bitter astringency lingered between my teeth.
 
 The cat in the corner suddenly let out a "meow"—thin, drawn-out, and indifferent. It did not sound like a plea for food, nor a bid for affection. I started, turning my head to look at it.

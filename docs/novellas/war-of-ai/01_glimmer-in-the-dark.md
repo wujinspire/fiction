@@ -1,5 +1,10 @@
 # Chapter 1: A Glimmer in the Dark
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/01_astronomer-by-candlelight.jpg" alt="Gerrit Dou, Astronomer by Candlelight, late 1650s">
+  <figcaption>Gerrit Dou, <em>Astronomer by Candlelight</em>, late 1650s</figcaption>
+</figure>
+
 Suchir sat in the OpenAI office, staring at the blinking cursor on the screen, his fingers hovering over the keyboard, unable to bring them down. Cold sweat seeped from his forehead, and the sound of his heartbeat echoed in his ears like war drums. The entire office area was brightly lit, but for Suchir, it felt as though he were standing in a pitch-black abyss.
 
 His gaze was fixed tight on a single line of text on the screen—

@@ -1,5 +1,10 @@
 # The GPT Machine
 
+<figure class="story-art">
+  <img src="/art/short-stories/07_american-gothic.jpg" alt="Grant Wood, American Gothic, 1930">
+  <figcaption>Grant Wood, <em>American Gothic</em>, 1930</figcaption>
+</figure>
+
 That night, while on the phone with my parents, it suddenly struck me that they were like broken GPT machines.
 
 I asked Mom: "How have you guys been lately?"

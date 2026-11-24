@@ -1,5 +1,10 @@
 # The Art Gap
 
+<figure class="story-art">
+  <img src="/art/short-stories/11_gleaners.jpg" alt="Jean-François Millet, The Gleaners, 1857">
+  <figcaption>Jean-François Millet, <em>The Gleaners</em>, 1857</figcaption>
+</figure>
+
 At 4:14 p.m., the noise inside the Starbucks was a pot of industrial broth boiled and left to cool. The hiss of high-pressure steam jetting from the espresso machine, the crisp clatter of ice cubes striking polypropylene cup walls, the dense drumbeat of a neighboring MacBook keyboard being tapped with utilitarian urgency—all of it receded against my eardrums, blurring into a wash of grayish-white background static.
 
 My gaze cut through the dust-moted air and locked onto the figure in dark gray workwear hunched in the corner.

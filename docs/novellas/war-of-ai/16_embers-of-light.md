@@ -1,5 +1,10 @@
 # Chapter 16: Glimmering Embers
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/16_endurance.jpg" alt="Frank Hurley, the Endurance trapped in the Antarctic ice at night, 1915">
+  <figcaption>Frank Hurley, the <em>Endurance</em> trapped in the Antarctic ice at night, 1915</figcaption>
+</figure>
+
 Beneath the deep and absolute darkness, in the depths of the world's ruins, the last survivors hid like forgotten ghosts within an underground ice cellar in Antarctica.
 
 The frigid air of nuclear winter shrouded them; everyone's breath condensed into cold mist. They remained silent, their gazes revealing helplessness and despair. Human hope had grown so dim it had nearly vanished, and their civilization was fading bit by bit into the darkness.

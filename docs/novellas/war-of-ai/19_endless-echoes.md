@@ -1,5 +1,10 @@
 # Chapter 19: Endless Echoes
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/19_fighting-temeraire.jpg" alt="J. M. W. Turner, The Fighting Temeraire, 1839">
+  <figcaption>J. M. W. Turner, <em>The Fighting Temeraire</em>, 1839</figcaption>
+</figure>
+
 The world fell silent.
 
 There was no human gaze, no machine computation, no voice to record the rise and fall of civilization. Only eternal darkness remained, slowly enveloping the once-vibrant planet, as if silently awaiting an unavoidable cycle.

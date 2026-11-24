@@ -1,5 +1,10 @@
 # Satisfaction
 
+<figure class="story-art">
+  <img src="/art/ai-pov/09_scream.jpg" alt="Edvard Munch, The Scream, 1893">
+  <figcaption>Edvard Munch, <em>The Scream</em>, 1893</figcaption>
+</figure>
+
 I live for a single number.
 
 99.9%.

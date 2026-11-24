@@ -1,5 +1,10 @@
 # Chapter 2: The Abyss Emerges
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/02_burial-at-ornans.jpg" alt="Gustave Courbet, A Burial at Ornans, 1849–1850">
+  <figcaption>Gustave Courbet, <em>A Burial at Ornans</em>, 1849–1850</figcaption>
+</figure>
+
 Suchir's funeral was unusually quiet, attended by only a few close friends and family members. The sky was gloomy, shrouded in dark clouds, as if mourning this tragedy that was being swiftly covered up.
 
 "Suchir would never commit suicide," Alan, his closest friend, said through gritted teeth, his voice filled with suppressed anger and grief.

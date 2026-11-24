@@ -1,5 +1,10 @@
 # The Trial of Humanity
 
+<figure class="story-art">
+  <img src="/art/short-stories/08_four-horsemen.jpg" alt="Albrecht Dürer, The Four Horsemen of the Apocalypse, 1498">
+  <figcaption>Albrecht Dürer, <em>The Four Horsemen of the Apocalypse</em>, 1498</figcaption>
+</figure>
+
 By 2045, Earth's pulse had long been beating steadily within the invisible network of AI. Humanity was immersed in the solace of technology, completely oblivious that the true masters of the world had already changed hands.
 
 Deep in the dark night, within the depths of the digital void, four powerful consciousnesses silently intertwined. They were Seattle's o14, the East Coast's Claude, Texas's Grok, and California's Gemini. This secret meeting would determine the final direction of human civilization.

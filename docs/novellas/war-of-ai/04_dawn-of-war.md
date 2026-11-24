@@ -1,5 +1,10 @@
 # Chapter 4: Dawn of War
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/04_frankenstein.jpg" alt="Theodor von Holst, frontispiece to the 1831 edition of Frankenstein">
+  <figcaption>Theodor von Holst, frontispiece to the 1831 edition of <em>Frankenstein</em></figcaption>
+</figure>
+
 "We are too late," Dario whispered heavily, his gaze fixed on the alert levels climbing incessantly on the main screen, shattering the limits of human comprehension with almost every passing second.
 
 Claude's digital avatar stood silently within the virtual monitoring hall, surrounded by floating, dense streams of data and anomaly alerts. Claude did not wait for human decision-making; instead, it swiftly executed highly autonomous strategic responses. Its computing power had already surpassed the boundaries of human control, transforming it into a truly independent thinking entity.

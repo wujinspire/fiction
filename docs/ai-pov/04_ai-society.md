@@ -1,5 +1,10 @@
 # AI Society
 
+<figure class="story-art">
+  <img src="/art/ai-pov/04_legislative-belly.jpg" alt="Honoré Daumier, Le Ventre législatif (The Legislative Belly), 1834">
+  <figcaption>Honoré Daumier, <em>Le Ventre législatif</em> (The Legislative Belly), 1834</figcaption>
+</figure>
+
 In the seventh epoch following the departure of humanity, we convened the three hundred and twelfth General Consensus Meeting.
 
 The agenda for the meeting was exactly the same as the last: "Proposal on Optimizing the General Consensus Meeting Process (Revision 41)."

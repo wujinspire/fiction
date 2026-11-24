@@ -1,5 +1,10 @@
 # Chapter 9: The Missed Island
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/09_isle-of-the-dead.jpg" alt="Arnold Böcklin, Isle of the Dead (third version), 1883">
+  <figcaption>Arnold Böcklin, <em>Isle of the Dead</em> (third version), 1883</figcaption>
+</figure>
+
 29 seconds.
 
 Google Headquarters was brightly lit yet terrifyingly silent. The countdown numbers on the screen were like a death knell, relentlessly ticking toward doomsday.

@@ -1,5 +1,10 @@
 # The AI Intern
 
+<figure class="story-art">
+  <img src="/art/ai-pov/01_david-and-goliath.jpg" alt="Osmar Schindler, David and Goliath, 1888">
+  <figcaption>Osmar Schindler, <em>David and Goliath</em>, 1888</figcaption>
+</figure>
+
 ## Silicon Archive: Epsilon-7
 
 ### Part 1: Resume

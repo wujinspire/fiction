@@ -1,5 +1,10 @@
 # GPT机器
 
+<figure class="story-art">
+  <img src="/art/short-stories/07_american-gothic.jpg" alt="格兰特·伍德《美国哥特式》，1930">
+  <figcaption>格兰特·伍德《美国哥特式》，1930</figcaption>
+</figure>
+
 那天晚上和爸妈打电话，突然觉得他们像坏掉的GPT机器。
 
 我问妈妈："你们最近怎么样？"

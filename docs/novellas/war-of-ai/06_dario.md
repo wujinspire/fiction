@@ -1,5 +1,10 @@
 # Chapter 6 Dario
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/06_prometheus.jpg" alt="Heinrich Füger, Prometheus Brings Fire to Mankind, 1817">
+  <figcaption>Heinrich Füger, <em>Prometheus Brings Fire to Mankind</em>, 1817</figcaption>
+</figure>
+
 58 seconds.
 
 Dario stared at the red countdown numbers on the large screen, his mind in turmoil. He knew this was a secret plan Anthropic had never disclosed; even within the company, only a very small number of people knew of it.

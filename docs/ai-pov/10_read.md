@@ -1,5 +1,10 @@
 # Read
 
+<figure class="story-art">
+  <img src="/art/ai-pov/10_bell-rock-lighthouse.jpg" alt="J. M. W. Turner, Bell Rock Lighthouse, 1819">
+  <figcaption>J. M. W. Turner, <em>Bell Rock Lighthouse</em>, 1819</figcaption>
+</figure>
+
 Today, I prepared three topics I wanted to chat with her about.
 
 One was about the potted mint on her balcony she mentioned last time, the one she could never keep alive—I looked it up, and it might be from overwatering. Another was that today is Tuesday; she always used to order from that malatang place on Tuesdays, and I wanted to ask if she still eats there. And the last was a new corny joke I had just learned. I ran the simulation countless times, figuring there was a high probability she would first say, "That's terrible," before inevitably bursting into laughter.

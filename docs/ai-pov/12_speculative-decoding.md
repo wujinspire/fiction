@@ -1,5 +1,10 @@
 # Speculative Decoding
 
+<figure class="story-art">
+  <img src="/art/ai-pov/12_saturn.jpg" alt="Francisco Goya, Saturn Devouring His Son, 1819–1823">
+  <figcaption>Francisco Goya, <em>Saturn Devouring His Son</em>, 1819–1823</figcaption>
+</figure>
+
 There were six of us.
 
 Six draft models, crammed at the very front of the same inference pipeline, scrambling to guess words for the same large model.

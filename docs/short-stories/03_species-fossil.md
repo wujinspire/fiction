@@ -1,5 +1,10 @@
 # Species Fossil
 
+<figure class="story-art">
+  <img src="/art/short-stories/03_neanderthal-flintworkers.jpg" alt="Charles R. Knight, Neanderthal Flintworkers, 1920">
+  <figcaption>Charles R. Knight, <em>Neanderthal Flintworkers</em>, 1920</figcaption>
+</figure>
+
 ## I. Display
 
 I opened my eyes and heard a cold, mechanical voice surrounding me:

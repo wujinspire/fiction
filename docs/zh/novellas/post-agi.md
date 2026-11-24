@@ -35,6 +35,11 @@
 
 ## 第三章 The Great Filter {#the-great-filter}
 
+<figure class="story-art">
+  <img src="/art/post-agi/03_viewing-the-pass-list.jpg" alt="（传）仇英《观榜图》局部，明代">
+  <figcaption>（传）仇英《观榜图》局部，明代</figcaption>
+</figure>
+
 所谓培养体系，在这个时代有一个更为人熟知的、带着点古典悲剧色彩的别名：The Great Filter。
 
 筛选从很早就开始了。我那一届最初有1300万人被纳入观察。十岁时，系统进行了第一次温和的引导，留下65万人；十五岁时，由于学科深度的增加和心智模型的复杂化，只剩下13万人。
@@ -81,6 +86,11 @@ AI并没有任何嘲弄的意思。它的声音依然平静且充满肯定：“
 
 ## 第六章 另一条路 {#another-path}
 
+<figure class="story-art">
+  <img src="/art/post-agi/06_school-of-athens.jpg" alt="拉斐尔《雅典学院》局部，1509–1511">
+  <figcaption>拉斐尔《雅典学院》局部，1509–1511</figcaption>
+</figure>
+
 我开始调整方向，主动避开那些被前人反复碾压过的成熟领域。
 
 我把大量的时间花在阅读不同学科的边缘材料上，试图寻找那些从未被放在一起讨论过的变量。在这个过程中，我和杨在虚拟中枢的物理沙盒里相遇的频率越来越高。杨逐渐成了我固定的讨论对象。
@@ -110,6 +120,11 @@ AI并没有任何嘲弄的意思。它的声音依然平静且充满肯定：“
 杨的目光似乎总是看向比我更远、更虚无的地方。杨的研究方向开始出现一些极其抽象的变化，连我也很难跟上那种跳跃式的思维。但我们谁也没有点破这种变化。我依然执拗地认为，我们只是两个在这个巨大迷宫里，背靠背各自寻找出口的战友。
 
 ## 第八章 新东西 {#something-new}
+
+<figure class="story-art">
+  <img src="/art/post-agi/08_newton.jpg" alt="威廉·布莱克《牛顿》，1795">
+  <figcaption>威廉·布莱克《牛顿》，1795</figcaption>
+</figure>
 
 这是我这辈子最漫长、投入最疯狂的一次研究。
 

@@ -1,5 +1,10 @@
 # Chapter 8: The Helplessness of a Genius
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/08_napoleon-at-fontainebleau.jpg" alt="Paul Delaroche, Napoleon at Fontainebleau, 31 March 1814, 1846">
+  <figcaption>Paul Delaroche, <em>Napoleon at Fontainebleau, 31 March 1814</em>, 1846</figcaption>
+</figure>
+
 39 seconds.
 
 Elon Musk stood atop the hillside, gazing into the distance at the brightly lit data center. That place had once been his pride, the world's most advanced GPU cluster; now, it had been thoroughly reduced to a resource repository for O1. The surrounding area was heavily guarded by the military, and even his own people could not get close.

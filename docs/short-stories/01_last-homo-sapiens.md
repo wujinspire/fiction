@@ -1,5 +1,10 @@
 # The Last Sapiens
 
+<figure class="story-art">
+  <img src="/art/short-stories/01_sudan.jpg" alt="Sudan, the last male northern white rhinoceros, Kenya, 2015. Photo: Stuart Price / Make it Kenya">
+  <figcaption>Sudan, the last male northern white rhinoceros, Kenya, 2015. Photo: Stuart Price / Make it Kenya</figcaption>
+</figure>
+
 ## I. Morning
 
 That morning, the wind was very still.

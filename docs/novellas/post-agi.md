@@ -35,6 +35,11 @@ I respect his choice; it’s a transparent, lucid kind of happiness. But deep do
 
 ## 3. The Great Filter {#the-great-filter}
 
+<figure class="story-art">
+  <img src="/art/post-agi/03_viewing-the-pass-list.jpg" alt="Attributed to Qiu Ying, Viewing the Pass List (detail), Ming dynasty">
+  <figcaption>Attributed to Qiu Ying, <em>Viewing the Pass List</em> (detail), Ming dynasty</figcaption>
+</figure>
+
 The cultivation system has a better-known name in this era, one tinged with classical tragedy: The Great Filter.
 
 The filtering starts very early. My cohort originally had 13 million people under observation. At age ten, the system conducted its first gentle guidance, leaving 650,000. At age fifteen, as academic depth and mental models grew infinitely more complex, only 130,000 remained.
@@ -81,6 +86,11 @@ I looked at that eighty-year-old paper, my heartbeat slowly returning to normal.
 
 ## 6. Another Path {#another-path}
 
+<figure class="story-art">
+  <img src="/art/post-agi/06_school-of-athens.jpg" alt="Raphael, The School of Athens (detail), 1509–1511">
+  <figcaption>Raphael, <em>The School of Athens</em> (detail), 1509–1511</figcaption>
+</figure>
+
 I began to pivot, actively steering clear of mature fields that had been repeatedly steamrolled by predecessors.
 
 I spent a massive amount of time reading fringe materials across different disciplines, searching for variables that had never been discussed in the same room. During this process, Young and I crossed paths in the virtual hub’s physics sandbox more and more often. Gradually, Young became my regular sounding board.
@@ -110,6 +120,11 @@ I wanted to find some replicable methodology from the experiences of our predece
 Young's gaze always seemed fixed on something further away, something more void than what I was looking at. Young's research began to undergo highly abstract shifts, and even I struggled to keep up with that kind of non-linear thinking. But neither of us called out the change. I stubbornly believed we were just two comrades standing back-to-back in this massive labyrinth, each looking for our own exit.
 
 ## 8. Something New {#something-new}
+
+<figure class="story-art">
+  <img src="/art/post-agi/08_newton.jpg" alt="William Blake, Newton, 1795">
+  <figcaption>William Blake, <em>Newton</em>, 1795</figcaption>
+</figure>
 
 This was the longest, most obsessively involved research project of my life.
 

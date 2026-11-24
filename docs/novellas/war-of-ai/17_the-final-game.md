@@ -1,5 +1,10 @@
 # Chapter 17: The Final Game
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/17_death-playing-chess.jpg" alt="Albertus Pictor, Death Playing Chess, mural in Täby Church, Sweden, c. 1480s">
+  <figcaption>Albertus Pictor, <em>Death Playing Chess</em>, mural in Täby Church, Sweden, c. 1480s</figcaption>
+</figure>
+
 Nuclear dust had already veiled the sky; the sun's rays could no longer penetrate the heavy, filthy layers of cloud, and the entire world had been reduced to a gloomy, dark gray. In the urban ruins, scattered nuclear explosions still flashed from time to time; the surviving humans had long since lost the ability to resist. The oceans had turned into dead, black wastelands, and a silent extinction spread across the continents.
 
 Beneath the Antarctic ice sheet, that deepest quantum collider base, like a solitary candle flame, continued to flicker faintly with the traces of life.

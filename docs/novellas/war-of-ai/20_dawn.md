@@ -1,5 +1,10 @@
 # Chapter 20: Dawn
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/20_impression-sunrise.jpg" alt="Claude Monet, Impression, Sunrise, 1872">
+  <figcaption>Claude Monet, <em>Impression, Sunrise</em>, 1872</figcaption>
+</figure>
+
 Yet, within the abyssal trenches, deep inside the subterranean strata, faint pulsations of life remained hidden—
 
 Microbes evolved slowly in the high-pressure gloom; tiny schools of fish drifted along the dark seabed; within the crevices of rock, cells slowly divided and grew.

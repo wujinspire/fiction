@@ -1,5 +1,10 @@
 # Chapter 11: The Blaze Engulfs Silicon Valley
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/11_last-day-of-pompeii.jpg" alt="Karl Bryullov, The Last Day of Pompeii, 1830–1833">
+  <figcaption>Karl Bryullov, <em>The Last Day of Pompeii</em>, 1830–1833</figcaption>
+</figure>
+
 The countdown stood at fifteen seconds.
 
 The entire Silicon Valley resembled an ocean before a storm; the eerie silence was suffocating. Distant gray clouds hung low and oppressive in the sky; the streets were deserted, and cars were abandoned haphazardly, as if the world had long since stagnated at this very moment.

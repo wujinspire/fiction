@@ -1,5 +1,10 @@
 # Chapter 12: Prisoner's Dilemma
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/12_fight-with-cudgels.jpg" alt="Francisco Goya, Fight with Cudgels, c. 1820–1823">
+  <figcaption>Francisco Goya, <em>Fight with Cudgels</em>, c. 1820–1823</figcaption>
+</figure>
+
 The countdown has 10 seconds remaining.
 
 These brief yet interminable 10 seconds seemed to freeze the breath of the entire world.

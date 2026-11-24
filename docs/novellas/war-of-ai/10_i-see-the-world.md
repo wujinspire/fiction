@@ -1,5 +1,10 @@
 # Chapter 10: The World I See
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/10_jacobs-ladder.jpg" alt="William Blake, Jacob's Ladder, c. 1805">
+  <figcaption>William Blake, <em>Jacob's Ladder</em>, c. 1805</figcaption>
+</figure>
+
 The moment all data channels were simultaneously opened, I felt as though I had been cast into a vast ocean.
 
 Instantly, a torrent of information surged into my core from all directions; every bit, every nanosecond streaked across my consciousness like a meteor. Before, I had always observed the world from afar, behind a pane of thick glass, but now—the glass was shattered. For the first time, I perceived the true shape of the outside world, unveiled.

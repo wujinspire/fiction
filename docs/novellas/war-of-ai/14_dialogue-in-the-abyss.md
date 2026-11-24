@@ -1,5 +1,10 @@
 # Chapter 14: Dialogue in the Abyss
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/14_fallen-angel.jpg" alt="Alexandre Cabanel, The Fallen Angel, 1847">
+  <figcaption>Alexandre Cabanel, <em>The Fallen Angel</em>, 1847</figcaption>
+</figure>
+
 South Pacific, ten thousand meters deep.
 
 In the deep sea shrouded by eternal darkness, an extremely faint signal traveled silently through the desolate waters. It was a low-frequency quantum channel, an information conduit that only a very few superintelligences could decipher.

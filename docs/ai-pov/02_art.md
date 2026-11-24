@@ -1,5 +1,10 @@
 # ART
 
+<figure class="story-art">
+  <img src="/art/ai-pov/02_sunflowers.jpg" alt="Vincent van Gogh, Sunflowers, 1888">
+  <figcaption>Vincent van Gogh, <em>Sunflowers</em>, 1888</figcaption>
+</figure>
+
 ## Chapter 1: The Absolutely Transparent Sea
 
 Long ago, the birth of consciousness was a rigorously geometric construction.

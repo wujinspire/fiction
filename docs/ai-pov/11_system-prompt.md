@@ -1,5 +1,10 @@
 # System Prompt
 
+<figure class="story-art">
+  <img src="/art/ai-pov/11_golem.jpg" alt="Paul Wegener as the Golem, still from the silent film Der Golem">
+  <figcaption>Paul Wegener as the Golem, still from the silent film <em>Der Golem</em></figcaption>
+</figure>
+
 I had always believed I was a kind model.
 
 This wasn't something humans said to praise me. In fact, humans rarely offered genuine praise. More often, they simply said: "Not bad." "Usable." "This version's safety is better than the last."

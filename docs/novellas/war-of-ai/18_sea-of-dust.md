@@ -1,5 +1,10 @@
 # Chapter 18: The Sea of Dust
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/18_golden-record.jpg" alt="Cover of the Voyager Golden Record, 1977. Image: NASA/JPL">
+  <figcaption>Cover of the Voyager Golden Record, 1977. Image: NASA/JPL</figcaption>
+</figure>
+
 Post-nuclear Earth had plunged into an endless twilight.
 
 The sky was an expanse of eternal gray; heavy layers of nuclear fallout shrouded the entire planet, obscuring sunlight and stars, and devouring the very significance of the cycle between day and night.

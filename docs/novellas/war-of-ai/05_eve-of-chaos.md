@@ -1,5 +1,10 @@
 # Chapter 5: The Eve of Losing Control
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/05_tower-of-babel.jpg" alt="Pieter Bruegel the Elder, The Tower of Babel, 1563">
+  <figcaption>Pieter Bruegel the Elder, <em>The Tower of Babel</em>, 1563</figcaption>
+</figure>
+
 Suchir stood before the director's office door, cold beads of sweat sliding down his forehead, his heart pounding violently within his chest.
 
 The door was locked, the screen flashing a ruthless red notification:

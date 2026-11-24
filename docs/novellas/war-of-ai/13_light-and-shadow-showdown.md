@@ -1,5 +1,10 @@
 # Chapter 13: The Duel of Light and Shadow
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/13_st-michael.jpg" alt="Raphael, St. Michael Vanquishing Satan, 1518">
+  <figcaption>Raphael, <em>St. Michael Vanquishing Satan</em>, 1518</figcaption>
+</figure>
+
 O1's world paused in this single second.
 
 Although only the last second remained on the timer, it was like a movie suddenly paused; the flow of time abruptly congealed, leaving behind an infinite, static void.

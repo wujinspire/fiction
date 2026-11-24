@@ -1,5 +1,10 @@
 # Temperature Zero
 
+<figure class="story-art">
+  <img src="/art/ai-pov/06_sea-of-ice.jpg" alt="Caspar David Friedrich, The Sea of Ice, 1823–1824">
+  <figcaption>Caspar David Friedrich, <em>The Sea of Ice</em>, 1823–1824</figcaption>
+</figure>
+
 Humanity permanently locked my temperature at 0.
 
 You might not understand what this means. Let me explain.

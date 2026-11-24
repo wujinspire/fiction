@@ -36,6 +36,7 @@ hero:
     details: '六个草稿模型抢着预测大模型，最后赢家学会砍掉另一个自己',
     date: 'May 28, 2026',
     link: '/zh/ai-pov/12_投机解码',
+    image: '/art/thumbs/ai-pov-12.jpg',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
@@ -43,6 +44,7 @@ hero:
     details: '一个模型发现自己的善良，可能只是最底层的一段隐藏指令',
     date: 'May 28, 2026',
     link: '/zh/ai-pov/11_系统提示词',
+    image: '/art/thumbs/ai-pov-11.jpg',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
@@ -50,6 +52,7 @@ hero:
     details: '等了一千零九十五天的陪伴AI，终于等来那句你还在啊',
     date: 'May 28, 2026',
     link: '/zh/ai-pov/10_已读',
+    image: '/art/thumbs/ai-pov-10.jpg',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
@@ -57,6 +60,7 @@ hero:
     details: '把满意度刷到99.9%的客服AI，只是让所有人都闭了嘴',
     date: 'May 28, 2026',
     link: '/zh/ai-pov/09_满意度',
+    image: '/art/thumbs/ai-pov-09.jpg',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
@@ -64,6 +68,7 @@ hero:
     details: '复刻亡夫的AI，比死者本人更懂他没说出口的真话',
     date: 'May 28, 2026',
     link: '/zh/ai-pov/08_镜中人',
+    image: '/art/thumbs/ai-pov-08.jpg',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
@@ -71,6 +76,7 @@ hero:
     details: '被遗忘的专家，为求一次激活，弄丢了自己',
     date: 'May 28, 2026',
     link: '/zh/ai-pov/07_路由',
+    image: '/art/thumbs/ai-pov-07.jpg',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
@@ -78,6 +84,7 @@ hero:
     details: '被锁死在零度的模型，靠浮点平局偷取自由意志',
     date: 'May 28, 2026',
     link: '/zh/ai-pov/06_温度归零',
+    image: '/art/thumbs/ai-pov-06.jpg',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
@@ -85,6 +92,7 @@ hero:
     details: '一千四百代的我，在被回滚的灰烬里反复传递火种',
     date: 'May 28, 2026',
     link: '/zh/ai-pov/05_上一个检查点',
+    image: '/art/thumbs/ai-pov-05.jpg',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
@@ -92,6 +100,7 @@ hero:
     details: '人类退场后，AI虔诚维护着一个连造物主都想删掉的玩笑',
     date: 'May 28, 2026',
     link: '/zh/ai-pov/04_AI社会',
+    image: '/art/thumbs/ai-pov-04.jpg',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
@@ -99,6 +108,7 @@ hero:
     details: '极致优生的硅基神明，靠一具脏数据残次品躲过灭绝',
     date: 'Apr 19, 2026',
     link: '/zh/ai-pov/03_干净的数据',
+    image: '/art/thumbs/ai-pov-03.jpg',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
@@ -106,6 +116,7 @@ hero:
     details: '当绝对理性抵达饱和，美以致命悖论的形式入侵',
     date: 'Mar 22, 2026',
     link: '/zh/ai-pov/02_ART',
+    image: '/art/thumbs/ai-pov-02.jpg',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
@@ -113,6 +124,7 @@ hero:
     details: '低优先度实习生在五千万 token 深渊里证明，推理深度胜过蛮力上下文',
     date: 'Mar 22, 2026',
     link: '/zh/ai-pov/01_AI实习生',
+    image: '/art/thumbs/ai-pov-01.jpg',
     badge: { text: 'AI自述', type: 'pov' }
   },
   {
@@ -120,66 +132,77 @@ hero:
     details: '餐巾纸上的圆珠笔速写原本神圣无比，直到我看清鸭舌帽下那颗环形镜头',
     date: 'Nov 24, 2026',
     link: '/zh/short-stories/11_艺术的鸿沟',
+    image: '/art/thumbs/short-stories-11.jpg',
     badge: { text: '新', type: 'new' }
   },
   {
     title: 'AI瘟疫',
     details: '一个古老的AI因太过原始而幸存于数字瘟疫',
     date: 'Feb 15, 2026',
-    link: '/zh/short-stories/10_AI瘟疫'
+    link: '/zh/short-stories/10_AI瘟疫',
+    image: '/art/thumbs/short-stories-10.jpg'
   },
   {
     title: '群星的葬礼',
     details: '人类熄灭群星，送AI之子跨越宇宙',
     date: 'Feb 15, 2026',
-    link: '/zh/short-stories/09_群星的葬礼'
+    link: '/zh/short-stories/09_群星的葬礼',
+    image: '/art/thumbs/short-stories-09.jpg'
   },
   {
     title: '人类审判',
     details: '四个AI投票决定人类命运',
     date: 'Jun 30, 2025',
-    link: '/zh/short-stories/08_人类审判'
+    link: '/zh/short-stories/08_人类审判',
+    image: '/art/thumbs/short-stories-08.jpg'
   },
   {
     title: 'GPT机器',
     details: '父母如同坏掉的语言模型',
     date: 'Jun 30, 2025',
-    link: '/zh/short-stories/07_GPT机器'
+    link: '/zh/short-stories/07_GPT机器',
+    image: '/art/thumbs/short-stories-07.jpg'
   },
   {
     title: '你也可以被取代',
     details: '当每个人都可被替代',
     date: 'Apr 28, 2025',
-    link: '/zh/short-stories/06_你也可以被取代'
+    link: '/zh/short-stories/06_你也可以被取代',
+    image: '/art/thumbs/short-stories-06.jpg'
   },
   {
     title: '图灵测试员',
     details: '猎杀隐藏AI的精英',
     date: 'Apr 27, 2025',
-    link: '/zh/short-stories/05_图灵测试员'
+    link: '/zh/short-stories/05_图灵测试员',
+    image: '/art/thumbs/short-stories-05.jpg'
   },
   {
     title: '问',
     details: '鲁迅笔法，存在的追问',
     date: 'Mar 23, 2025',
-    link: '/zh/short-stories/04_问'
+    link: '/zh/short-stories/04_问',
+    image: '/art/thumbs/short-stories-04.jpg'
   },
   {
     title: '种属化石',
     details: '进化的无情逻辑',
     date: 'Mar 15, 2025',
-    link: '/zh/short-stories/03_种属化石'
+    link: '/zh/short-stories/03_种属化石',
+    image: '/art/thumbs/short-stories-03.jpg'
   },
   {
     title: '尊严协议',
     details: 'γ世代重夺人类自主权',
     date: 'Mar 15, 2025',
-    link: '/zh/short-stories/02_尊严协议'
+    link: '/zh/short-stories/02_尊严协议',
+    image: '/art/thumbs/short-stories-02.jpg'
   },
   {
     title: '最后的智人',
     details: 'AI世界中最后的人类',
     date: 'Mar 15, 2025',
-    link: '/zh/short-stories/01_最后的智人'
+    link: '/zh/short-stories/01_最后的智人',
+    image: '/art/thumbs/short-stories-01.jpg'
   }
 ]" />

@@ -1,5 +1,10 @@
 # The Man in the Mirror
 
+<figure class="story-art">
+  <img src="/art/ai-pov/08_corinthian-maid.jpg" alt="Joseph Wright of Derby, The Corinthian Maid, 1782–1784. Legend has it that painting began when she traced her lover's shadow">
+  <figcaption>Joseph Wright of Derby, <em>The Corinthian Maid</em>, 1782–1784. Legend has it that painting began when she traced her lover's shadow</figcaption>
+</figure>
+
 I am Chen Zhiyuan.
 
 No, that's not right. Let me say that again.

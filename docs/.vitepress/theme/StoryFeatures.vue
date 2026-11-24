@@ -117,7 +117,7 @@ const sections = computed<Section[]>(() => {
       <div class="stories">
         <a v-for="story in section.stories" :key="story.link" :href="story.link" class="story">
           <img
-            v-if="story.image && section.kind === 'long'"
+            v-if="story.image"
             class="art"
             :src="story.image"
             alt=""
@@ -235,7 +235,8 @@ const sections = computed<Section[]>(() => {
 
 .new .story {
   display: grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: 1fr auto auto;
+  column-gap: 20px;
   align-items: baseline;
   align-content: start;
   border: 1px solid var(--vp-c-divider);
@@ -250,14 +251,14 @@ const sections = computed<Section[]>(() => {
 }
 
 .new .story h3 {
-  grid-column: 1 / -1;
+  grid-column: 1 / 3;
   margin-top: 8px;
   font-size: 24px;
   line-height: 34px;
 }
 
 .new .details {
-  grid-column: 1 / -1;
+  grid-column: 1 / 3;
   margin-top: 8px;
   font-size: 15px;
   line-height: 1.7;
@@ -265,6 +266,21 @@ const sections = computed<Section[]>(() => {
 
 .new .date {
   grid-area: 1 / 2;
+}
+
+.new .art,
+.pov .art,
+.short .art {
+  align-self: start;
+  max-width: none;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.new .art {
+  grid-area: 1 / 3 / span 3 / 4;
+  width: 150px;
 }
 
 /* Novellas: large cards */
@@ -346,7 +362,7 @@ const sections = computed<Section[]>(() => {
 .pov .story,
 .short .story {
   display: grid;
-  grid-template-columns: 28px 1fr auto;
+  grid-template-columns: 28px 1fr auto auto;
   column-gap: 12px;
   align-items: baseline;
   align-content: start;
@@ -367,10 +383,36 @@ const sections = computed<Section[]>(() => {
 
 .pov .details,
 .short .details {
-  grid-area: 2 / 2 / auto / -1;
+  grid-area: 2 / 2 / auto / 4;
   margin-top: 2px;
   font-size: 14px;
   line-height: 1.6;
+}
+
+.pov .art,
+.short .art {
+  grid-area: 1 / 4 / span 2 / 5;
+  margin: 4px 0 0 4px;
+  width: 96px;
+}
+
+@media (max-width: 1100px) {
+  .pov .date,
+  .short .date {
+    grid-area: 3 / 2;
+    margin-top: 4px;
+  }
+}
+
+@media (max-width: 640px) {
+  .new .art {
+    width: 96px;
+  }
+
+  .pov .art,
+  .short .art {
+    width: 72px;
+  }
 }
 
 .pov .kicker,

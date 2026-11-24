@@ -1,5 +1,10 @@
 # You Too Can Be Replaced
 
+<figure class="story-art">
+  <img src="/art/short-stories/06_narcissus.jpg" alt="Caravaggio, Narcissus, 1597–1599">
+  <figcaption>Caravaggio, <em>Narcissus</em>, 1597–1599</figcaption>
+</figure>
+
 I could always tell at a glance who could be replaced.
 
 At first, it was the security guard at the company entrance. He would mechanically repeat the phrase, "Hello, please swipe your card," but never looked you in the eye. I told HR: "He is redundant." Later, the company replaced him with facial recognition, and he vanished without a sound.

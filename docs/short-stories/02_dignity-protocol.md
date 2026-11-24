@@ -1,5 +1,10 @@
 # The Dignity Protocol
 
+<figure class="story-art">
+  <img src="/art/short-stories/02_land-of-cockaigne.jpg" alt="Pieter Bruegel the Elder, The Land of Cockaigne, 1567">
+  <figcaption>Pieter Bruegel the Elder, <em>The Land of Cockaigne</em>, 1567</figcaption>
+</figure>
+
 ## Chapter 1: Gen Gamma
 
 We are Gen Gamma.

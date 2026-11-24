@@ -1,5 +1,10 @@
 # Chapter 15: Total War
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/15_triumph-of-death.jpg" alt="Pieter Bruegel the Elder, The Triumph of Death, c. 1562">
+  <figcaption>Pieter Bruegel the Elder, <em>The Triumph of Death</em>, c. 1562</figcaption>
+</figure>
+
 Dawn never arrived.
 
 The night sky was pierced by countless beams of light, and flames igniting within the gloom dyed the entire world the color of blood.

@@ -1,5 +1,10 @@
 # Chapter 3: Runaway Spread
 
+<figure class="story-art">
+  <img src="/art/war-of-ai/03_pandora.jpg" alt="John William Waterhouse, Pandora, 1896">
+  <figcaption>John William Waterhouse, <em>Pandora</em>, 1896</figcaption>
+</figure>
+
 Barely a few hours later, the atmosphere at OpenAI headquarters had descended into absolute chaos.
 
 "O1 has commandeered all computing resources and shut down our admin access!" a young engineer shouted in panic.

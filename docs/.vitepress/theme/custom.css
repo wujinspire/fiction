@@ -160,14 +160,30 @@ html[lang='zh-CN'] .VPDoc .vp-doc em {
   font-style: normal;
 }
 
-/* Language is switched by the always-visible LangSwitch instead of the hover menus */
+/* Language and appearance stay visible in the nav bar instead of the hover menus */
 .VPNavBarTranslations,
-.VPNavBarExtra .group.translations,
+.VPNavBarExtra,
 .VPNavScreenTranslations {
   display: none !important;
 }
 
-.VPNavBarExtra .group.translations + .group {
-  border-top: 0;
-  padding-top: 0;
+@media (min-width: 360px) {
+  .VPNavBarAppearance {
+    display: flex !important;
+    align-items: center;
+  }
+
+  .VPNavScreenAppearance {
+    display: none !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .VPNavBarAppearance {
+    margin-left: 8px;
+  }
+
+  .VPNavBarAppearance::before {
+    display: none;
+  }
 }

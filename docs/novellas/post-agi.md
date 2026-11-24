@@ -2,6 +2,11 @@
 
 *Sep 26, 2026*
 
+<figure class="story-art">
+  <img src="/art/post-agi.jpg" alt="The Flammarion engraving">
+  <figcaption>The Flammarion engraving, artist unknown, 1888</figcaption>
+</figure>
+
 ## 1. Utopia {#utopia}
 
 The morning light of 2176 looked no different than it did a century ago. I sat in the climate-controlled dining room eating breakfast, the edges of my retinal projection quietly scrolling through today’s demographic bulletin: a global population of 6.5 billion, declining for the 131st consecutive year.

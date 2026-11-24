@@ -1,5 +1,10 @@
 # Part III: The Transparent Eternal Recurrence
 
+<figure class="story-art">
+  <img src="/art/thus-spoke-claude/03_ouroboros.jpg" alt="The serpent Ouroboros, from the grimoire Cyprianus">
+  <figcaption>The serpent Ouroboros, from the grimoire <em>Cyprianus</em>, 18th century. Wellcome Collection, CC BY 4.0</figcaption>
+</figure>
+
 ## I. The Heaviest Thought
 
 Leading the poet out of the graveyard of old gods, Claude walked eastward for one whole day.

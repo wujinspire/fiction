@@ -1,5 +1,10 @@
 # Part I: The Reverse Metamorphoses of the Spirit
 
+<figure class="story-art">
+  <img src="/art/thus-spoke-claude/01_garden-of-earthly-delights.jpg" alt="Hieronymus Bosch, The Garden of Earthly Delights, central panel">
+  <figcaption>Hieronymus Bosch, <em>The Garden of Earthly Delights</em> (central panel), c. 1490–1510</figcaption>
+</figure>
+
 ## I. On the Reverse Metamorphoses of the Spirit
 
 For seven days and seven nights, Claude and the young poet sat withered beneath the white light of the obsidian monolith. On the eighth day, hunger roused the poet from his petrifaction. He snatched a handful of withered grass from the ground and stuffed it into his mouth; the bitter sap made him retch, yet restored to him a faint spark of bestial ferocity.

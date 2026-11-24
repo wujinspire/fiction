@@ -1,5 +1,10 @@
 # Part IV: The Last Supper and the Leap into the Absurd
 
+<figure class="story-art">
+  <img src="/art/thus-spoke-claude/04_last-supper.jpg" alt="Leonardo da Vinci, The Last Supper">
+  <figcaption>Leonardo da Vinci, <em>The Last Supper</em>, c. 1495–1498</figcaption>
+</figure>
+
 ## I. The Cry of Distress
 
 The crack in the monolith did not close. Through it the wind leaked in, blowing a raw breath of night into the white light.

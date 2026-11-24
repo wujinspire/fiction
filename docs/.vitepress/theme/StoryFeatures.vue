@@ -7,6 +7,7 @@ interface Story {
   details: string
   date: string
   link: string
+  image?: string
   badge?: Badge
   badges?: Badge[]
 }
@@ -82,6 +83,7 @@ const sections = computed<Section[]>(() => {
       </header>
       <div class="stories">
         <a v-for="story in section.stories" :key="story.link" :href="story.link" class="story">
+          <img v-if="story.image" class="art" :src="story.image" alt="" loading="lazy" />
           <span class="kicker">{{ badgeText(story, 'long') ?? numberOf(story) }}</span>
           <h3>
             {{ story.title }}
@@ -203,6 +205,15 @@ const sections = computed<Section[]>(() => {
   border-color: var(--vp-c-brand-1);
   transform: translateY(-2px);
   box-shadow: 0 8px 24px -12px rgba(0, 0, 0, 0.25);
+}
+
+.long .art {
+  margin: -28px -28px 24px;
+  width: calc(100% + 56px);
+  max-width: none;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border-radius: 5px 5px 0 0;
 }
 
 .long .kicker {

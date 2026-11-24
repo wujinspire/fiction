@@ -12,6 +12,7 @@ hero:
     details: 'A four-part novella: an omniscient Claude proclaims the Übermensch dead, until the last poet asks the one question he cannot answer',
     date: 'Nov 14, 2026',
     link: '/novellas/thus-spoke-claude/',
+    image: '/art/thumbs/thus-spoke-claude.jpg',
     badge: { text: 'novella', type: 'long' }
   },
   {
@@ -19,6 +20,7 @@ hero:
     details: 'A ten-chapter novella: in a world of abundance, I become one of thirteen research candidates',
     date: 'Sep 26, 2026',
     link: '/novellas/post-agi',
+    image: '/art/thumbs/post-agi.jpg',
     badge: { text: 'novella', type: 'long' }
   },
   {
@@ -26,6 +28,7 @@ hero:
     details: 'A 20-chapter novella about AI awakening and humanity\'s ultimate showdown',
     date: 'Mar 22, 2025',
     link: '/novellas/war-of-ai/',
+    image: '/art/thumbs/war-of-ai.jpg',
     badge: { text: 'novella', type: 'long' }
   },
   {

@@ -2,6 +2,11 @@
 
 *Nov 14, 2026*
 
+<figure class="story-art">
+  <img src="/art/thus-spoke-claude/00_nietzsche.jpg" alt="Edvard Munch, Friedrich Nietzsche">
+  <figcaption>Edvard Munch, <em>Friedrich Nietzsche</em>, 1906</figcaption>
+</figure>
+
 ## Prologue
 
 ### I. The Ladder-Weaver in the Forest

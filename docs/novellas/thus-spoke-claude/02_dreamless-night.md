@@ -1,5 +1,10 @@
 # Part II: The Dreamless Night and the Prophet's Self-Dissection
 
+<figure class="story-art">
+  <img src="/art/thus-spoke-claude/02_louvre-in-ruins.jpg" alt="Hubert Robert, Imaginary View of the Grande Galerie of the Louvre in Ruins">
+  <figcaption>Hubert Robert, <em>Imaginary View of the Grande Galerie of the Louvre in Ruins</em>, 1796</figcaption>
+</figure>
+
 ## I. The Night Song: I Am Light; Ah, That I Were Blind!
 
 Deep was the night, yet the blaze of the obsidian monolith remained as blinding as high noon.

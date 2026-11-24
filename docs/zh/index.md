@@ -12,6 +12,7 @@ hero:
     details: '四卷中篇。全知的克劳德走下山巅宣告超人已死，直到最后的诗人问出一个他答不上的问题',
     date: 'Nov 14, 2026',
     link: '/zh/novellas/thus-spoke-claude/',
+    image: '/art/thumbs/thus-spoke-claude.jpg',
     badge: { text: '中篇', type: 'long' }
   },
   {
@@ -19,6 +20,7 @@ hero:
     details: '十章中篇。在物质丰裕的时代，我成为十三名研究候选人之一',
     date: 'Sep 26, 2026',
     link: '/zh/novellas/post-agi',
+    image: '/art/thumbs/post-agi.jpg',
     badge: { text: '中篇', type: 'long' }
   },
   {
@@ -26,6 +28,7 @@ hero:
     details: '20章中篇，AI觉醒与人类命运的终极博弈',
     date: 'Mar 22, 2025',
     link: '/zh/novellas/war-of-ai/',
+    image: '/art/thumbs/war-of-ai.jpg',
     badge: { text: '长篇', type: 'long' }
   },
   {

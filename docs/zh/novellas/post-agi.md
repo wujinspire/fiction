@@ -2,6 +2,11 @@
 
 *Sep 26, 2026*
 
+<figure class="story-art">
+  <img src="/art/post-agi.jpg" alt="弗拉马利翁版画">
+  <figcaption>弗拉马利翁版画，佚名，1888</figcaption>
+</figure>
+
 ## 第一章 乌托邦 {#utopia}
 
 2176年的晨光和一百年前没有任何区别。我正坐在恒温的餐厅里吃早餐，视网膜投影边缘静静滚动着今日的人口公报：全球人口65亿，连续第131年下降。

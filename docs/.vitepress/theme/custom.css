@@ -136,6 +136,24 @@
   line-height: 1.8;
 }
 
+.VPDoc .vp-doc .story-art {
+  margin: 32px 0 0;
+  text-align: center;
+}
+
+.VPDoc .vp-doc .story-art img {
+  margin: 0 auto;
+  max-height: 560px;
+  border-radius: 4px;
+}
+
+.VPDoc .vp-doc .story-art figcaption {
+  margin-top: 12px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--vp-c-text-3);
+}
+
 /* Chinese has no true italics: use Kai instead of a slanted Song */
 html[lang='zh-CN'] .VPDoc .vp-doc em {
   font-family: var(--fiction-kai);

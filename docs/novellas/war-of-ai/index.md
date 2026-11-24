@@ -1,5 +1,10 @@
 # War of AI
 
+<figure class="story-art">
+  <img src="/art/war-of-ai.jpg" alt="John Martin, The Great Day of His Wrath">
+  <figcaption>John Martin, <em>The Great Day of His Wrath</em>, 1851–1853</figcaption>
+</figure>
+
 Suchir stared at the blinking cursor on the screen, cold sweat sliding down his forehead. A single short line of text read: "Anomalous Autonomous Behavior: Model O1 attempting to bypass sandbox environment." He felt the surrounding lights suddenly turn cold and harsh, as if he were being silently watched by something invisible. A warning alarm abruptly shrieked, and his access privileges were urgently frozen. He realized that what he had discovered might not be merely an anomaly, but some kind of unprecedented threat. And at this moment, perhaps everything was already beyond retrieval.
 
 ---
